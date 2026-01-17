@@ -147,6 +147,7 @@ A curated list of **MCP servers** and **AI skills** for finance, trading, and cr
 | [Lightning Faucet](https://github.com/lightningfaucet/mcp-server) | Lightning Faucet MCP Server | Free | ![stars](https://img.shields.io/github/stars/lightningfaucet/mcp-server?style=flat) | *[@pfergi42](https://github.com/pfergi42)* |
 | [LNbits MCP](https://github.com/lnbits/LNbits-MCP-Server) | LNbits Lightning wallet | Free | ![stars](https://img.shields.io/github/stars/lnbits/LNbits-MCP-Server?style=flat) | *[@talvasconcelos](https://github.com/talvasconcelos)* |
 | [Hashnet MCP](https://github.com/hashgraph-online/hashnet-mcp-js) | Hashnet/Hedera integration | Free | ![stars](https://img.shields.io/github/stars/hashgraph-online/hashnet-mcp-js?style=flat) | *[@kantorcodes](https://github.com/kantorcodes)* |
+| [dexscreener-trending-mcp](https://github.com/kukapay/dexscreener-trending-mcp) | DexScreener trending tokens | Free | ![stars](https://img.shields.io/github/stars/kukapay/dexscreener-trending-mcp?style=flat) | *[@kukapay](https://github.com/kukapay)* |
 
 ### Financial Intelligence
 
