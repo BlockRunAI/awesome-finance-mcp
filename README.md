@@ -27,6 +27,9 @@ A curated list of **MCP servers** and **AI skills** for finance, trading, and cr
 **Skills (Workflows)**
 - [Skills](#skills)
 
+**Community**
+- [Community Contributions](#community-contributions) 🆕
+
 ---
 
 ## Stock Market
@@ -130,6 +133,26 @@ A curated list of **MCP servers** and **AI skills** for finance, trading, and cr
 | [TrendRadar](https://github.com/sansan0/TrendRadar) | AI sentiment monitoring, hot topic tracking | Free | ![GitHub stars](https://img.shields.io/github/stars/sansan0/TrendRadar?style=flat) |
 | [Finbrain MCP](https://github.com/ahmetsbilgin/finbrain-mcp) | Institutional-grade alternative data | Requires API key | ![GitHub stars](https://img.shields.io/github/stars/ahmetsbilgin/finbrain-mcp?style=flat) |
 | [Norman Finance MCP](https://github.com/norman-finance/norman-mcp-server) | Accounting, invoices, taxes | Requires credentials | ![GitHub stars](https://img.shields.io/github/stars/norman-finance/norman-mcp-server?style=flat) |
+
+---
+
+## Community Contributions
+
+> 🙏 Thanks to these contributors who submitted their MCP servers!
+
+### Cryptocurrency & Blockchain
+
+| Name | Description | Pricing | Stars | Contributor |
+|------|-------------|---------|-------|-------------|
+| [Lightning Faucet](https://github.com/lightningfaucet/mcp-server) | Lightning Faucet MCP Server | Free | ![stars](https://img.shields.io/github/stars/lightningfaucet/mcp-server?style=flat) | *[@pfergi42](https://github.com/pfergi42)* |
+| [LNbits MCP](https://github.com/lnbits/LNbits-MCP-Server) | LNbits Lightning wallet | Free | ![stars](https://img.shields.io/github/stars/lnbits/LNbits-MCP-Server?style=flat) | *[@talvasconcelos](https://github.com/talvasconcelos)* |
+| [Hashnet MCP](https://github.com/hashgraph-online/hashnet-mcp-js) | Hashnet/Hedera integration | Free | ![stars](https://img.shields.io/github/stars/hashgraph-online/hashnet-mcp-js?style=flat) | *[@kantorcodes](https://github.com/kantorcodes)* |
+
+### Financial Intelligence
+
+| Name | Description | Pricing | Stars | Contributor |
+|------|-------------|---------|-------|-------------|
+| [OpenBB MCP](https://github.com/OpenBB-finance/OpenBB) | OpenBB financial platform | Free | ![stars](https://img.shields.io/github/stars/OpenBB-finance/OpenBB?style=flat) | *[@MagnusS0](https://github.com/MagnusS0)* |
 
 ---
 
