@@ -148,6 +148,8 @@ A curated list of **MCP servers** and **AI skills** for finance, trading, and cr
 | [LNbits MCP](https://github.com/lnbits/LNbits-MCP-Server) | LNbits Lightning wallet | Free | ![stars](https://img.shields.io/github/stars/lnbits/LNbits-MCP-Server?style=flat) | *[@talvasconcelos](https://github.com/talvasconcelos)* |
 | [Hashnet MCP](https://github.com/hashgraph-online/hashnet-mcp-js) | Hashnet/Hedera integration | Free | ![stars](https://img.shields.io/github/stars/hashgraph-online/hashnet-mcp-js?style=flat) | *[@kantorcodes](https://github.com/kantorcodes)* |
 | [dexscreener-trending-mcp](https://github.com/kukapay/dexscreener-trending-mcp) | DexScreener trending tokens | Free | ![stars](https://img.shields.io/github/stars/kukapay/dexscreener-trending-mcp?style=flat) | *[@kukapay](https://github.com/kukapay)* |
+| [investor-agent](https://github.com/ferdousbhai/investor-agent) | MCP server for building an investor agent | Free | ![stars](https://img.shields.io/github/stars/ferdousbhai/investor-agent?style=flat) | *[@ferdousbhai](https://github.com/ferdousbhai)* |
+| [coincap-mcp](https://github.com/QuantGeekDev/coincap-mcp) | Access crypto data from CoinCap API | Free | ![stars](https://img.shields.io/github/stars/QuantGeekDev/coincap-mcp?style=flat) | *[@QuantGeekDev](https://github.com/QuantGeekDev)* |
 
 ### Financial Intelligence
 
