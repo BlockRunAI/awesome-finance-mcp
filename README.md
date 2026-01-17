@@ -62,6 +62,7 @@ A curated list of **MCP servers** and **AI skills** for finance, trading, and cr
 | [CCXT MCP](https://github.com/Nayshins/mcp-server-ccxt) | Data from 20+ exchanges via CCXT | Free | ![GitHub stars](https://img.shields.io/github/stars/Nayshins/mcp-server-ccxt?style=flat) |
 | [Crypto Indicators MCP](https://github.com/kukapay/crypto-indicators-mcp) | Technical analysis indicators | Free | ![GitHub stars](https://img.shields.io/github/stars/kukapay/crypto-indicators-mcp?style=flat) |
 | [TradingView MCP](https://github.com/atilaahmettaner/tradingview-mcp) | Advanced market analysis, multi-exchange | Freemium | ![GitHub stars](https://img.shields.io/github/stars/atilaahmettaner/tradingview-mcp?style=flat) |
+| [Crypto Price MCP](https://github.com/kukapay/crypto-price-mcp) | Real-time crypto prices via CoinGecko | Free | ![GitHub stars](https://img.shields.io/github/stars/kukapay/crypto-price-mcp?style=flat) |
 
 ### Crypto Trading Execution
 
@@ -127,6 +128,7 @@ A curated list of **MCP servers** and **AI skills** for finance, trading, and cr
 | Name | Description | Pricing | Stars |
 |------|-------------|---------|-------|
 | [OpenBB Platform](https://github.com/OpenBB-finance/OpenBB) | Comprehensive financial data platform | Free + Paid | ![GitHub stars](https://img.shields.io/github/stars/OpenBB-finance/OpenBB?style=flat) |
+| [TrendRadar](https://github.com/sansan0/TrendRadar) | AI sentiment monitoring, hot topic tracking | Free | ![GitHub stars](https://img.shields.io/github/stars/sansan0/TrendRadar?style=flat) |
 | [Finbrain MCP](https://github.com/ahmetsbilgin/finbrain-mcp) | Institutional-grade alternative data | Requires API key | ![GitHub stars](https://img.shields.io/github/stars/ahmetsbilgin/finbrain-mcp?style=flat) |
 | [Norman Finance MCP](https://github.com/norman-finance/norman-mcp-server) | Accounting, invoices, taxes | Requires credentials | ![GitHub stars](https://img.shields.io/github/stars/norman-finance/norman-mcp-server?style=flat) |
 
