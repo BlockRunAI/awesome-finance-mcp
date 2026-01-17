@@ -1,8 +1,8 @@
-# Awesome Finance MCP
+# Awesome Finance MCP & Skills
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A curated list of MCP (Model Context Protocol) servers for AI finance agents.
+A curated list of **MCP servers** and **AI skills** for finance, trading, and crypto agents.
 
 > Maintained by [BlockRun](https://blockrun.ai) - Give your AI agent a wallet, not API keys.
 
@@ -10,6 +10,7 @@ A curated list of MCP (Model Context Protocol) servers for AI finance agents.
 
 ## Contents
 
+**MCP Servers**
 - [Stock Market](#stock-market)
   - [Data Providers](#data-providers)
   - [Trading Execution](#trading-execution)
@@ -22,6 +23,9 @@ A curated list of MCP (Model Context Protocol) servers for AI finance agents.
 - [Payments & Banking](#payments--banking)
 - [Blockchain & Web3](#blockchain--web3)
 - [Financial Intelligence](#financial-intelligence)
+
+**Skills (Workflows)**
+- [Skills](#skills)
 
 ---
 
@@ -128,15 +132,34 @@ A curated list of MCP (Model Context Protocol) servers for AI finance agents.
 
 ---
 
+## Skills
+
+Skills are **task-level workflows** built on top of MCP servers or external APIs. They provide ready-to-use capabilities for common finance tasks.
+
+| Name | Description | Built On | Pricing |
+|------|-------------|----------|---------|
+| [Twitter Intel](https://github.com/BlockRunAI/blockrun-agent-wallet/tree/main/skills/twitter-intel) | Real-time X/Twitter intelligence - monitor accounts, track topics, analyze sentiment | Grok + BlockRun | ~$0.25-0.50/query |
+
+### Adding a Skill
+
+A skill entry must include:
+- A stable link (repo or path)
+- Clear description of inputs/outputs
+- What MCP servers or APIs it uses
+- Pricing information
+- A runnable example prompt or command
+
+---
+
 ## Contributing
 
-See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on adding MCPs to this list.
+See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on adding MCPs or skills to this list.
 
 **Quick checklist:**
-- MCP must be related to finance, trading, or financial data
+- MCP/Skill must be related to finance, trading, or financial data
 - Include working GitHub link
 - Provide accurate description and pricing info
-- Test that the MCP actually works
+- Test that it actually works
 
 ---
 
