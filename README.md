@@ -62,7 +62,6 @@ A curated list of **MCP servers** and **AI skills** for finance, trading, and cr
 | [CCXT MCP](https://github.com/Nayshins/mcp-server-ccxt) | Data from 20+ exchanges via CCXT | Free | ![GitHub stars](https://img.shields.io/github/stars/Nayshins/mcp-server-ccxt?style=flat) |
 | [Crypto Indicators MCP](https://github.com/kukapay/crypto-indicators-mcp) | Technical analysis indicators | Free | ![GitHub stars](https://img.shields.io/github/stars/kukapay/crypto-indicators-mcp?style=flat) |
 | [TradingView MCP](https://github.com/atilaahmettaner/tradingview-mcp) | Advanced market analysis, multi-exchange | Freemium | ![GitHub stars](https://img.shields.io/github/stars/atilaahmettaner/tradingview-mcp?style=flat) |
-| [Crypto Price MCP](https://github.com/kukapay/crypto-price-mcp) | Real-time crypto prices via CoinGecko | Free | ![GitHub stars](https://img.shields.io/github/stars/kukapay/crypto-price-mcp?style=flat) |
 
 ### Crypto Trading Execution
 
