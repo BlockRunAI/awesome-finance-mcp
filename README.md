@@ -43,7 +43,7 @@ A curated list of **MCP servers** and **AI skills** for finance, trading, and cr
 | [Alpha Vantage MCP](https://github.com/alphavantage/alpha_vantage_mcp) | Stocks, forex, crypto, technical indicators | Freemium | ![GitHub stars](https://img.shields.io/github/stars/alphavantage/alpha_vantage_mcp?style=flat) |
 | [Financial Modeling Prep MCP](https://github.com/imbenrabi/Financial-Modeling-Prep-MCP-Server) | 250+ tools, fundamentals, market insights | Freemium | ![GitHub stars](https://img.shields.io/github/stars/imbenrabi/Financial-Modeling-Prep-MCP-Server?style=flat) |
 | [Finnhub MCP](https://github.com/sverze/stock-market-mcp-server) | Stock market data via Finnhub API | Freemium | ![GitHub stars](https://img.shields.io/github/stars/sverze/stock-market-mcp-server?style=flat) |
-| [Polygon.io MCP](https://github.com/stockseas/polygon-mcp) | Stocks, options, forex aggregates | Paid API key | ![GitHub stars](https://img.shields.io/github/stars/stockseas/polygon-mcp?style=flat) |
+| [Massive MCP](https://github.com/massive-com/mcp_massive) | Stocks, options, forex, crypto market data | Freemium | ![GitHub stars](https://img.shields.io/github/stars/massive-com/mcp_massive?style=flat) |
 
 ### Trading Execution
 
