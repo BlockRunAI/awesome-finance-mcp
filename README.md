@@ -8,6 +8,14 @@ A curated list of **MCP servers** and **AI skills** for finance, trading, and cr
 
 ---
 
+## 🔥 Featured
+
+| Name | Description | Stars |
+|------|-------------|-------|
+| [**Awesome OpenClaw Money Maker**](https://github.com/BlockRunAI/awesome-OpenClaw-Money-Maker) | 1,500+ open-source tools for AI agent income generation: trading bots, MEV, arbitrage, DeFi, prediction markets, lead gen, and more | ![GitHub stars](https://img.shields.io/github/stars/BlockRunAI/awesome-OpenClaw-Money-Maker?style=flat) |
+
+---
+
 ## Contents
 
 **MCP Servers**
@@ -38,12 +46,19 @@ A curated list of **MCP servers** and **AI skills** for finance, trading, and cr
 
 | Name | Description | Pricing | Stars |
 |------|-------------|---------|-------|
+| [Maverick MCP](https://github.com/wshobson/maverick-mcp) | AI trading agent with real-time analysis | Free | ![GitHub stars](https://img.shields.io/github/stars/wshobson/maverick-mcp?style=flat) |
+| [MCP Trader](https://github.com/wshobson/mcp-trader) | Trading MCP with backtesting support | Free | ![GitHub stars](https://img.shields.io/github/stars/wshobson/mcp-trader?style=flat) |
 | [Alpaca MCP](https://github.com/alpacahq/alpaca-mcp-server) | Trade stocks, ETFs, options; run data analysis | Free (commission-free) | ![GitHub stars](https://img.shields.io/github/stars/alpacahq/alpaca-mcp-server?style=flat) |
 | [Financial Datasets MCP](https://github.com/financial-datasets/mcp-server) | Income statements, balance sheets, stock prices | Freemium | ![GitHub stars](https://img.shields.io/github/stars/financial-datasets/mcp-server?style=flat) |
 | [Alpha Vantage MCP](https://github.com/alphavantage/alpha_vantage_mcp) | Stocks, forex, crypto, technical indicators | Freemium | ![GitHub stars](https://img.shields.io/github/stars/alphavantage/alpha_vantage_mcp?style=flat) |
 | [Financial Modeling Prep MCP](https://github.com/imbenrabi/Financial-Modeling-Prep-MCP-Server) | 250+ tools, fundamentals, market insights | Freemium | ![GitHub stars](https://img.shields.io/github/stars/imbenrabi/Financial-Modeling-Prep-MCP-Server?style=flat) |
 | [Finnhub MCP](https://github.com/sverze/stock-market-mcp-server) | Stock market data via Finnhub API | Freemium | ![GitHub stars](https://img.shields.io/github/stars/sverze/stock-market-mcp-server?style=flat) |
 | [Massive MCP](https://github.com/massive-com/mcp_massive) | Stocks, options, forex, crypto market data | Freemium | ![GitHub stars](https://img.shields.io/github/stars/massive-com/mcp_massive?style=flat) |
+| [QuantConnect MCP](https://github.com/QuantConnect/mcp-server) | Algorithmic trading platform integration | Freemium | ![GitHub stars](https://img.shields.io/github/stars/QuantConnect/mcp-server?style=flat) |
+| [FRED MCP](https://github.com/stefanoamorelli/fred-mcp-server) | Federal Reserve Economic Data | Free | ![GitHub stars](https://img.shields.io/github/stars/stefanoamorelli/fred-mcp-server?style=flat) |
+| [KOSPI/KOSDAQ MCP](https://github.com/dragon1086/kospi-kosdaq-stock-server) | Korean stock market data | Free | ![GitHub stars](https://img.shields.io/github/stars/dragon1086/kospi-kosdaq-stock-server?style=flat) |
+| [Yahoo Finance MCP](https://github.com/maxscheijen/mcp-yahoo-finance) | Yahoo Finance stock data | Free | ![GitHub stars](https://img.shields.io/github/stars/maxscheijen/mcp-yahoo-finance?style=flat) |
+| [HK Finance MCP](https://github.com/hkopenai/hk-finance-mcp-server) | Hong Kong stock market data | Free | ![GitHub stars](https://img.shields.io/github/stars/hkopenai/hk-finance-mcp-server?style=flat) |
 
 ### Trading Execution
 
@@ -108,6 +123,7 @@ A curated list of **MCP servers** and **AI skills** for finance, trading, and cr
 | Name | Description | Pricing | Stars |
 |------|-------------|---------|-------|
 | [Stripe MCP](https://github.com/stripe/ai) | Payment processing, subscriptions | Requires API key | ![GitHub stars](https://img.shields.io/github/stars/stripe/ai?style=flat) |
+| [Qonto MCP](https://github.com/qonto/qonto-mcp-server) | Business banking, transactions, invoicing | Requires API key | ![GitHub stars](https://img.shields.io/github/stars/qonto/qonto-mcp-server?style=flat) |
 | [Ramp MCP](https://github.com/ramp-public/ramp_mcp) | Spend analytics via LLMs | Requires credentials | ![GitHub stars](https://img.shields.io/github/stars/ramp-public/ramp_mcp?style=flat) |
 | [Fewsats MCP](https://github.com/Fewsats/fewsats-mcp) | Bitcoin purchases for AI agents | Freemium | ![GitHub stars](https://img.shields.io/github/stars/Fewsats/fewsats-mcp?style=flat) |
 | [x402 Payment MCP](https://github.com/coinbase/x402) | HTTP-native payments for AI agents | Free (x402) | ![GitHub stars](https://img.shields.io/github/stars/coinbase/x402?style=flat) |
