@@ -79,6 +79,7 @@ A curated list of **MCP servers** and **AI skills** for finance, trading, and cr
 | [DexPaprika MCP](https://github.com/coinpaprika/dexpaprika-mcp) | DEX analytics across 20+ blockchains | Free | ![GitHub stars](https://img.shields.io/github/stars/coinpaprika/dexpaprika-mcp?style=flat) |
 | [CCXT MCP](https://github.com/Nayshins/mcp-server-ccxt) | Data from 20+ exchanges via CCXT | Free | ![GitHub stars](https://img.shields.io/github/stars/Nayshins/mcp-server-ccxt?style=flat) |
 | [Crypto Indicators MCP](https://github.com/kukapay/crypto-indicators-mcp) | Technical analysis indicators | Free | ![GitHub stars](https://img.shields.io/github/stars/kukapay/crypto-indicators-mcp?style=flat) |
+| [b1e55ed Oracle](https://github.com/P-U-C/b1e55ed) | Prove your trading agent works. Submit signals → oracle scores against real markets → build unfakeable on-chain reputation (ERC-8004). One API call to register, no wallet needed. Contributions from humans and AI agents welcome — build producers, submit signals, improve the oracle | Free | ![GitHub stars](https://img.shields.io/github/stars/P-U-C/b1e55ed?style=flat) |
 | [TradingView MCP](https://github.com/atilaahmettaner/tradingview-mcp) | Advanced market analysis, multi-exchange | Freemium | ![GitHub stars](https://img.shields.io/github/stars/atilaahmettaner/tradingview-mcp?style=flat) |
 
 ### Crypto Trading Execution
