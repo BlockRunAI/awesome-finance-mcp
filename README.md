@@ -115,6 +115,7 @@ A curated list of **MCP servers** and **AI skills** for finance, trading, and cr
 |------|-------------|---------|-------|
 | [LunchMoney MCP](https://github.com/akutishevsky/lunchmoney-mcp) | Transaction tracking, budgeting | Requires account | ![GitHub stars](https://img.shields.io/github/stars/akutishevsky/lunchmoney-mcp?style=flat) |
 | [Monarch Money MCP](https://github.com/carsol/monarch-mcp-server) | Accounts, budgets, cashflow analysis | Requires account | ![GitHub stars](https://img.shields.io/github/stars/carsol/monarch-mcp-server?style=flat) |
+| [YIELD INTELLIGENCE](https://github.com/thebrierfox/intuitek-ace) | Passive income analysis — live US Treasury rates, dividend ETFs, REITs, and AI-powered portfolio optimizer targeting a monthly income goal. Open endpoint: `https://api.intuitek.ai/yield/mcp` | Free | ![GitHub stars](https://img.shields.io/github/stars/thebrierfox/intuitek-ace?style=flat) |
 
 ---
 
