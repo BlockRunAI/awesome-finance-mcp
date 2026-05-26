@@ -115,7 +115,6 @@ A curated list of **MCP servers** and **AI skills** for finance, trading, and cr
 |------|-------------|---------|-------|
 | [LunchMoney MCP](https://github.com/akutishevsky/lunchmoney-mcp) | Transaction tracking, budgeting | Requires account | ![GitHub stars](https://img.shields.io/github/stars/akutishevsky/lunchmoney-mcp?style=flat) |
 | [Monarch Money MCP](https://github.com/carsol/monarch-mcp-server) | Accounts, budgets, cashflow analysis | Requires account | ![GitHub stars](https://img.shields.io/github/stars/carsol/monarch-mcp-server?style=flat) |
-| [YIELD INTELLIGENCE](https://github.com/thebrierfox/intuitek-ace) | Passive income analysis — live US Treasury rates, dividend ETFs, REITs, and AI-powered portfolio optimizer targeting a monthly income goal. Open endpoint: `https://api.intuitek.ai/yield/mcp` | Free | ![GitHub stars](https://img.shields.io/github/stars/thebrierfox/intuitek-ace?style=flat) |
 
 ---
 
@@ -148,6 +147,7 @@ A curated list of **MCP servers** and **AI skills** for finance, trading, and cr
 |------|-------------|---------|-------|
 | [OpenBB Platform](https://github.com/OpenBB-finance/OpenBB) | Comprehensive financial data platform | Free + Paid | ![GitHub stars](https://img.shields.io/github/stars/OpenBB-finance/OpenBB?style=flat) |
 | [TrendRadar](https://github.com/sansan0/TrendRadar) | AI sentiment monitoring, hot topic tracking | Free | ![GitHub stars](https://img.shields.io/github/stars/sansan0/TrendRadar?style=flat) |
+| [YIELD INTELLIGENCE](https://github.com/thebrierfox/intuitek-ace) | Passive income analysis — live US Treasury rates, dividend ETFs, REITs, and AI-powered portfolio optimizer targeting a monthly income goal. Open endpoint: `https://api.intuitek.ai/yield/mcp` | Free | ![GitHub stars](https://img.shields.io/github/stars/thebrierfox/intuitek-ace?style=flat) |
 | [Finbrain MCP](https://github.com/ahmetsbilgin/finbrain-mcp) | Institutional-grade alternative data | Requires API key | ![GitHub stars](https://img.shields.io/github/stars/ahmetsbilgin/finbrain-mcp?style=flat) |
 | [Norman Finance MCP](https://github.com/norman-finance/norman-mcp-server) | Accounting, invoices, taxes | Requires credentials | ![GitHub stars](https://img.shields.io/github/stars/norman-finance/norman-mcp-server?style=flat) |
 
