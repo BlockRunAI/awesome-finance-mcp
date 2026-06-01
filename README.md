@@ -95,7 +95,7 @@ A curated list of **MCP servers** and **AI skills** for finance, trading, and cr
 | Name | Description | Pricing | Stars |
 |------|-------------|---------|-------|
 | [Bankless Onchain MCP](https://github.com/bankless/onchain-mcp) | Query onchain data, ERC20 tokens | Free | ![GitHub stars](https://img.shields.io/github/stars/bankless/onchain-mcp?style=flat) |
-| [Hive Crypto MCP](https://github.com/hive-intel/hive-crypto-mcp) | Crypto, DeFi, Web3 analytics | Freemium | ![GitHub stars](https://img.shields.io/github/stars/hive-intel/hive-crypto-mcp?style=flat) |
+| [Hive Intelligence](https://github.com/hive-intel/hive-sdk) | Managed crypto intelligence MCP for AI agents | Freemium | ![GitHub stars](https://img.shields.io/github/stars/hive-intel/hive-sdk?style=flat) |
 | [Crypto Liquidations MCP](https://github.com/kukapay/crypto-liquidations-mcp) | Real-time liquidation events | Requires API key | ![GitHub stars](https://img.shields.io/github/stars/kukapay/crypto-liquidations-mcp?style=flat) |
 
 ---
@@ -186,8 +186,8 @@ Skills are **task-level workflows** built on top of MCP servers or external APIs
 | [Trading Terminal](https://github.com/degentic-tools/claude-code-trading-terminal) | Agent-native trading terminal - deploy sub-agents for trades, positions, risk management | Claude Code + Jupiter | ![GitHub stars](https://img.shields.io/github/stars/degentic-tools/claude-code-trading-terminal?style=flat) |
 | [Claude Investor](https://github.com/martinxu9/claude-investor) | Investment analysis agent - price data, balance sheets, sentiment, analyst ratings | Claude 3 Opus/Haiku | ![GitHub stars](https://img.shields.io/github/stars/martinxu9/claude-investor?style=flat) |
 | [Trading Skills](https://github.com/tradermonty/claude-trading-skills) | IBD-style RS Rating for identifying stocks with strong momentum | Claude Code Skill | ![GitHub stars](https://img.shields.io/github/stars/tradermonty/claude-trading-skills?style=flat) |
-| [Invoice Organizer](https://github.com/ComposioHQ/awesome-claude-skills/tree/main/invoice-organizer) | Organize invoices and receipts for tax prep - extract, rename, sort | Claude Code Skill | - |
-| [Twitter Intel](https://github.com/BlockRunAI/blockrun-agent-wallet/tree/main/skills/twitter-intel) | Real-time X/Twitter intelligence for finance - monitor, summarize, alerts | Grok + BlockRun | ~$0.25-0.50/query |
+| [Invoice Organizer](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/invoice-organizer) | Organize invoices and receipts for tax prep - extract, rename, sort | Claude Code Skill | - |
+| [Surf Crypto Intelligence](https://github.com/BlockRunAI/blockrun-mcp/tree/main/skills/surf) | Crypto social, news, prediction, wallet, and SQL data | Surf + BlockRun | ![GitHub stars](https://img.shields.io/github/stars/BlockRunAI/blockrun-mcp?style=flat) |
 
 ### Adding a Skill
 
