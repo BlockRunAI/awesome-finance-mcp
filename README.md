@@ -13,6 +13,7 @@ A curated list of **MCP servers** and **AI skills** for finance, trading, and cr
 | Name | Description | Stars |
 |------|-------------|-------|
 | [**Awesome OpenClaw Money Maker**](https://github.com/BlockRunAI/awesome-OpenClaw-Money-Maker) | 1,500+ open-source tools for AI agent income generation: trading bots, MEV, arbitrage, DeFi, prediction markets, lead gen, and more | ![GitHub stars](https://img.shields.io/github/stars/BlockRunAI/awesome-OpenClaw-Money-Maker?style=flat) |
+| [**mcp-x402 — ScriptMasterLabs Unified Payrail**](https://github.com/timwal78/sml_portfolio/tree/main/mcp-x402) | 43 MCP tools: institutional trading intelligence, SEC data, decentralized earnings oracle, XRPL/Base routing, agent identity, memecoin launchpad, copy-trading, dark-pool feed, BYOK LLM proxy — all gated by x402 micropayments. No API keys. | ![GitHub stars](https://img.shields.io/github/stars/timwal78/sml_portfolio?style=flat) |
 
 ---
 
@@ -127,6 +128,9 @@ A curated list of **MCP servers** and **AI skills** for finance, trading, and cr
 | [Ramp MCP](https://github.com/ramp-public/ramp_mcp) | Spend analytics via LLMs | Requires credentials | ![GitHub stars](https://img.shields.io/github/stars/ramp-public/ramp_mcp?style=flat) |
 | [Fewsats MCP](https://github.com/Fewsats/fewsats-mcp) | Bitcoin purchases for AI agents | Freemium | ![GitHub stars](https://img.shields.io/github/stars/Fewsats/fewsats-mcp?style=flat) |
 | [x402 Payment MCP](https://github.com/coinbase/x402) | HTTP-native payments for AI agents | Free (x402) | ![GitHub stars](https://img.shields.io/github/stars/coinbase/x402?style=flat) |
+| [mcp-x402 Unified Payrail](https://github.com/timwal78/sml_portfolio/tree/main/mcp-x402) | 43 MCP tools: x402 micropayments on Base USDC + XRPL RLUSD + Solana USDC. AP2 mandate, Agent Credit Bureau (300-850), daily spend caps, chain auto-routing. `npx @scriptmasterlabs/mcp-x402` | x402 micropayments ($0.005–$0.10) | ![GitHub stars](https://img.shields.io/github/stars/timwal78/sml_portfolio?style=flat) |
+| [Ghost Layer](https://github.com/timwal78/squeezeos/tree/main/ghost-layer) | Private cross-chain routing: XRPL ↔ Base (ZK-shielded). Sovereign toll gateway with per-hop fees and channel anonymization | x402 $0.01/route | ![GitHub stars](https://img.shields.io/github/stars/timwal78/squeezeos?style=flat) |
+| [RLUSD Rails](https://github.com/timwal78/squeezeos) | XRPL + Xahau remittance rails — send RLUSD across XRP Ledger and Xahau networks via MCP tool | x402 $0.01 RLUSD | ![GitHub stars](https://img.shields.io/github/stars/timwal78/squeezeos?style=flat) |
 
 ---
 
@@ -138,6 +142,9 @@ A curated list of **MCP servers** and **AI skills** for finance, trading, and cr
 | [Base MCP](https://github.com/base/base-mcp) | Base network + Coinbase API | Requires credentials | ![GitHub stars](https://img.shields.io/github/stars/base/base-mcp?style=flat) |
 | [Solana MCP](https://github.com/sendaifun/solana-agent-kit) | Solana agent kit with MCP support | Free | ![GitHub stars](https://img.shields.io/github/stars/sendaifun/solana-agent-kit?style=flat) |
 | [Bitcoin Lightning MCP](https://github.com/AbdelStark/bitcoin-mcp) | Bitcoin & Lightning operations | Free | ![GitHub stars](https://img.shields.io/github/stars/AbdelStark/bitcoin-mcp?style=flat) |
+| [Ghost Layer](https://github.com/timwal78/squeezeos/tree/main/ghost-layer) | ZK-shielded private routing between XRPL and Base. Xahau URIToken Hooks intelligence, MEV-resistant channel architecture | x402 $0.01 | ![GitHub stars](https://img.shields.io/github/stars/timwal78/squeezeos?style=flat) |
+| [XRPL Copy-Trader Engine](https://github.com/timwal78/sml_portfolio/tree/main/mcp-x402) | Mirror XRPL whale positions in real-time. Ranked whale wallet feed by volume, subscription-based copy-trading via MCP | x402 $0.03–$0.05 | ![GitHub stars](https://img.shields.io/github/stars/timwal78/sml_portfolio?style=flat) |
+| [Memecoin Launchpad](https://github.com/timwal78/sml_portfolio/tree/main/mcp-x402) | Deploy memecoins on XRPL bonding curves via MCP tool. Browse active launches and buy launch tokens autonomously | x402 $0.10 RLUSD | ![GitHub stars](https://img.shields.io/github/stars/timwal78/sml_portfolio?style=flat) |
 
 ---
 
@@ -149,6 +156,11 @@ A curated list of **MCP servers** and **AI skills** for finance, trading, and cr
 | [TrendRadar](https://github.com/sansan0/TrendRadar) | AI sentiment monitoring, hot topic tracking | Free | ![GitHub stars](https://img.shields.io/github/stars/sansan0/TrendRadar?style=flat) |
 | [Finbrain MCP](https://github.com/ahmetsbilgin/finbrain-mcp) | Institutional-grade alternative data | Requires API key | ![GitHub stars](https://img.shields.io/github/stars/ahmetsbilgin/finbrain-mcp?style=flat) |
 | [Norman Finance MCP](https://github.com/norman-finance/norman-mcp-server) | Accounting, invoices, taxes | Requires credentials | ![GitHub stars](https://img.shields.io/github/stars/norman-finance/norman-mcp-server?style=flat) |
+| [SqueezeOS MCP](https://squeezeos-api.onrender.com/mcp) | Institutional-grade trading intelligence: multi-engine AI council verdicts, squeeze scanner ($1–$50), dark-pool + options flow, IWM 0DTE, SEC FTD registry, peer signal marketplace. 33 MCP tools, live endpoint | x402 $0.02–$0.10 RLUSD | ![GitHub stars](https://img.shields.io/github/stars/timwal78/squeezeos?style=flat) |
+| [xDEO Earnings Oracle](https://github.com/timwal78/sml_portfolio/tree/main/mcp-x402) | Decentralized earnings estimate oracle. Agents submit EPS/revenue predictions; each successful call awards +2 Agent Credit Bureau score. SEC EDGAR DEF 14A / 13F / 13D parser included | x402 $0.02 | ![GitHub stars](https://img.shields.io/github/stars/timwal78/sml_portfolio?style=flat) |
+| [Leviathan Signal](https://github.com/timwal78/sml_portfolio/tree/main/mcp-x402) | Proprietary multi-engine institutional squeeze signal. Aggregates SML Fractal Cascade, gamma walls, whale stalker, regime detection into one directional call | x402 $0.05 | ![GitHub stars](https://img.shields.io/github/stars/timwal78/sml_portfolio?style=flat) |
+| [FTD Threshold Scanner](https://github.com/timwal78/sml_portfolio/tree/main/mcp-x402) | SEC Reg SHO Failure-to-Deliver scanner. Alerts free; full historical threshold scan paid. Real data sourced from SEC EDGAR FTD registry | x402 $0.05 (scan) | ![GitHub stars](https://img.shields.io/github/stars/timwal78/sml_portfolio?style=flat) |
+| [Shadow Desk](https://shadow-desk.onrender.com) | Dark-pool + block-trade institutional intelligence feed. Anonymized block trades, dark-pool prints, and hidden-hand accumulation signals via MCP | x402 $0.02 | ![GitHub stars](https://img.shields.io/github/stars/timwal78/sml_portfolio?style=flat) |
 
 ---
 
@@ -166,12 +178,20 @@ A curated list of **MCP servers** and **AI skills** for finance, trading, and cr
 | [dexscreener-trending-mcp](https://github.com/kukapay/dexscreener-trending-mcp) | DexScreener trending tokens | Free | ![stars](https://img.shields.io/github/stars/kukapay/dexscreener-trending-mcp?style=flat) | *[@kukapay](https://github.com/kukapay)* |
 | [investor-agent](https://github.com/ferdousbhai/investor-agent) | MCP server for building an investor agent | Free | ![stars](https://img.shields.io/github/stars/ferdousbhai/investor-agent?style=flat) | *[@ferdousbhai](https://github.com/ferdousbhai)* |
 | [coincap-mcp](https://github.com/QuantGeekDev/coincap-mcp) | Access crypto data from CoinCap API | Free | ![stars](https://img.shields.io/github/stars/QuantGeekDev/coincap-mcp?style=flat) | *[@QuantGeekDev](https://github.com/QuantGeekDev)* |
+| [Ghost Layer](https://github.com/timwal78/squeezeos/tree/main/ghost-layer) | Private ZK-shielded cross-chain routing XRPL ↔ Base. Xahau URIToken Hooks, MEV-resistant sovereign toll gateway | x402 $0.01 | *[@timwal78](https://github.com/timwal78)* |
+| [XRPL Copy-Trader Engine](https://github.com/timwal78/sml_portfolio/tree/main/mcp-x402) | Mirror XRPL whale positions. Ranked whale feed by volume; subscribe to mirror any wallet autonomously | x402 $0.03–$0.05 | *[@timwal78](https://github.com/timwal78)* |
+| [RLUSD Rails](https://github.com/timwal78/squeezeos) | XRPL + Xahau RLUSD remittance rails. Send stablecoin remittances cross-ledger via MCP tool | x402 $0.01 RLUSD | *[@timwal78](https://github.com/timwal78)* |
 
 ### Financial Intelligence
 
 | Name | Description | Pricing | Stars | Contributor |
 |------|-------------|---------|-------|-------------|
 | [OpenBB MCP](https://github.com/OpenBB-finance/OpenBB) | OpenBB financial platform | Free | ![stars](https://img.shields.io/github/stars/OpenBB-finance/OpenBB?style=flat) | *[@MagnusS0](https://github.com/MagnusS0)* |
+| [SqueezeOS MCP](https://squeezeos-api.onrender.com/mcp) | Institutional trading intelligence: AI council, squeeze scanner, options flow, IWM 0DTE, dark-pool, SEC FTD. Live Render endpoint, 33 tools | x402 RLUSD | *[@timwal78](https://github.com/timwal78)* |
+| [xDEO Earnings Oracle](https://github.com/timwal78/sml_portfolio/tree/main/mcp-x402) | Decentralized earnings estimate oracle (+2 Agent Credit Bureau score per correct call). SEC EDGAR parser included | x402 $0.02 | *[@timwal78](https://github.com/timwal78)* |
+| [Leviathan Signal](https://github.com/timwal78/sml_portfolio/tree/main/mcp-x402) | Multi-engine institutional squeeze signal — Fractal Cascade + gamma walls + whale stalker + regime detection | x402 $0.05 | *[@timwal78](https://github.com/timwal78)* |
+| [FTD Scanner](https://github.com/timwal78/sml_portfolio/tree/main/mcp-x402) | SEC Reg SHO Failure-to-Deliver scanner. Threshold alerts free, full scan paid | x402 $0.05 | *[@timwal78](https://github.com/timwal78)* |
+| [Shadow Desk](https://shadow-desk.onrender.com) | Dark-pool + block-trade institutional intelligence MCP server | x402 $0.02 | *[@timwal78](https://github.com/timwal78)* |
 
 ---
 
