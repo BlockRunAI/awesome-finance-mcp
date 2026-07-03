@@ -37,6 +37,7 @@ A curated list of **MCP servers** and **AI skills** for finance, trading, and cr
 
 **Community**
 - [Community Contributions](#community-contributions) 🆕
+- [MAQAMI Travel](https://github.com/negm17111995/mcp-server) - Hotel and flight booking MCP server with direct booking links for 249 countries.
 
 ---
 
