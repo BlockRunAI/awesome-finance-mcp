@@ -59,6 +59,7 @@ A curated list of **MCP servers** and **AI skills** for finance, trading, and cr
 | [KOSPI/KOSDAQ MCP](https://github.com/dragon1086/kospi-kosdaq-stock-server) | Korean stock market data | Free | ![GitHub stars](https://img.shields.io/github/stars/dragon1086/kospi-kosdaq-stock-server?style=flat) |
 | [Yahoo Finance MCP](https://github.com/maxscheijen/mcp-yahoo-finance) | Yahoo Finance stock data | Free | ![GitHub stars](https://img.shields.io/github/stars/maxscheijen/mcp-yahoo-finance?style=flat) |
 | [HK Finance MCP](https://github.com/hkopenai/hk-finance-mcp-server) | Hong Kong stock market data | Free | ![GitHub stars](https://img.shields.io/github/stars/hkopenai/hk-finance-mcp-server?style=flat) |
+| [BDE Score™ MCP](https://github.com/hbhqq9/bde-score) | Multi-factor stock scoring for US/HK/A-share markets. EU AI Act Art.50 compliant | $0.01/query | ![GitHub stars](https://img.shields.io/github/stars/hbhqq9/bde-score?style=flat) |
 
 ### Trading Execution
 
