@@ -171,6 +171,7 @@ A curated list of **MCP servers** and **AI skills** for finance, trading, and cr
 
 | Name | Description | Pricing | Stars | Contributor |
 |------|-------------|---------|-------|-------------|
+| [KLinePic MCP](https://github.com/sher1096/klinepic-agent-api-examples) | Post-trade candlestick review charts from fills | Freemium | ![stars](https://img.shields.io/github/stars/sher1096/klinepic-agent-api-examples?style=flat) | *[@sher1096](https://github.com/sher1096)* |
 | [OpenBB MCP](https://github.com/OpenBB-finance/OpenBB) | OpenBB financial platform | Free | ![stars](https://img.shields.io/github/stars/OpenBB-finance/OpenBB?style=flat) | *[@MagnusS0](https://github.com/MagnusS0)* |
 
 ---
