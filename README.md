@@ -97,6 +97,7 @@ A curated list of **MCP servers** and **AI skills** for finance, trading, and cr
 | [Bankless Onchain MCP](https://github.com/bankless/onchain-mcp) | Query onchain data, ERC20 tokens | Free | ![GitHub stars](https://img.shields.io/github/stars/bankless/onchain-mcp?style=flat) |
 | [Hive Crypto MCP](https://github.com/hive-intel/hive-crypto-mcp) | Crypto, DeFi, Web3 analytics | Freemium | ![GitHub stars](https://img.shields.io/github/stars/hive-intel/hive-crypto-mcp?style=flat) |
 | [Crypto Liquidations MCP](https://github.com/kukapay/crypto-liquidations-mcp) | Real-time liquidation events | Requires API key | ![GitHub stars](https://img.shields.io/github/stars/kukapay/crypto-liquidations-mcp?style=flat) |
+| [Formo MCP](https://github.com/getformo/formono) | Product and onchain wallet analytics | Paid API key | ![GitHub stars](https://img.shields.io/github/stars/getformo/formono?style=flat) |
 
 ---
 
