@@ -172,6 +172,7 @@ A curated list of **MCP servers** and **AI skills** for finance, trading, and cr
 | Name | Description | Pricing | Stars | Contributor |
 |------|-------------|---------|-------|-------------|
 | [OpenBB MCP](https://github.com/OpenBB-finance/OpenBB) | OpenBB financial platform | Free | ![stars](https://img.shields.io/github/stars/OpenBB-finance/OpenBB?style=flat) | *[@MagnusS0](https://github.com/MagnusS0)* |
+| [AlphaSMO](https://github.com/alphasmo/alphasmo-tools) | CLI + MCP server for SEC 13F institutional holdings, insider trading (Form 4), and smart-money convergence signals | Freemium | ![stars](https://img.shields.io/github/stars/alphasmo/alphasmo-tools?style=flat) | *[@alphasmo](https://github.com/alphasmo)* |
 
 ---
 
