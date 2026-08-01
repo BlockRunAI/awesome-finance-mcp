@@ -127,6 +127,7 @@ A curated list of **MCP servers** and **AI skills** for finance, trading, and cr
 | [Ramp MCP](https://github.com/ramp-public/ramp_mcp) | Spend analytics via LLMs | Requires credentials | ![GitHub stars](https://img.shields.io/github/stars/ramp-public/ramp_mcp?style=flat) |
 | [Fewsats MCP](https://github.com/Fewsats/fewsats-mcp) | Bitcoin purchases for AI agents | Freemium | ![GitHub stars](https://img.shields.io/github/stars/Fewsats/fewsats-mcp?style=flat) |
 | [x402 Payment MCP](https://github.com/coinbase/x402) | HTTP-native payments for AI agents | Free (x402) | ![GitHub stars](https://img.shields.io/github/stars/coinbase/x402?style=flat) |
+| [open-banking.io](https://github.com/open-banking-io/clients) | Cert-free PSD2/open banking API with MCP | Paid API key | ![GitHub stars](https://img.shields.io/github/stars/open-banking-io/clients?style=flat) |
 
 ---
 
