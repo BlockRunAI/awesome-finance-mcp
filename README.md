@@ -88,6 +88,7 @@ A curated list of **MCP servers** and **AI skills** for finance, trading, and cr
 | [Binance MCP](https://github.com/TermiX-official/binance-mcp) | Portfolio, trading, token conversion | Requires API key | ![GitHub stars](https://img.shields.io/github/stars/TermiX-official/binance-mcp?style=flat) |
 | [Coinbase MCP](https://github.com/coinbase/agentkit) | Wallet operations and trading via AgentKit | Requires credentials | ![GitHub stars](https://img.shields.io/github/stars/coinbase/agentkit?style=flat) |
 | [DeFi Trading MCP](https://github.com/edkdev/defi-trading-mcp) | Autonomous trading across 17+ chains | Requires wallet | ![GitHub stars](https://img.shields.io/github/stars/edkdev/defi-trading-mcp?style=flat) |
+| [Eterna MCP](https://github.com/EternaHybridExchange/eterna-mcp) | No-KYC managed MCP for AI agents: sandboxed TypeScript SDK, isolated sub-accounts, USDT perpetual futures | Free (trading fees apply) | ![GitHub stars](https://img.shields.io/github/stars/EternaHybridExchange/eterna-mcp?style=flat) |
 | [Armor Crypto MCP](https://github.com/armorwallet/armor-crypto-mcp) | Swaps, DeFi, wallet management | Requires wallet | ![GitHub stars](https://img.shields.io/github/stars/armorwallet/armor-crypto-mcp?style=flat) |
 
 ### On-Chain Analytics
