@@ -173,6 +173,12 @@ A curated list of **MCP servers** and **AI skills** for finance, trading, and cr
 |------|-------------|---------|-------|-------------|
 | [OpenBB MCP](https://github.com/OpenBB-finance/OpenBB) | OpenBB financial platform | Free | ![stars](https://img.shields.io/github/stars/OpenBB-finance/OpenBB?style=flat) | *[@MagnusS0](https://github.com/MagnusS0)* |
 
+### Personal Finance
+
+| Name | Description | Pricing | Stars | Contributor |
+|------|-------------|---------|-------|-------------|
+| [OptionsAhoy MCP](https://github.com/AlvisoOculus/optionsahoy-mcp) | Equity compensation tax optimizer: ISO, NSO, RSU, QSBS | Free | ![stars](https://img.shields.io/github/stars/AlvisoOculus/optionsahoy-mcp?style=flat) | *[@AlvisoOculus](https://github.com/AlvisoOculus)* |
+
 ---
 
 ## Skills
