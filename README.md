@@ -172,6 +172,7 @@ A curated list of **MCP servers** and **AI skills** for finance, trading, and cr
 | Name | Description | Pricing | Stars | Contributor |
 |------|-------------|---------|-------|-------------|
 | [OpenBB MCP](https://github.com/OpenBB-finance/OpenBB) | OpenBB financial platform | Free | ![stars](https://img.shields.io/github/stars/OpenBB-finance/OpenBB?style=flat) | *[@MagnusS0](https://github.com/MagnusS0)* |
+| [GitDealFlow](https://github.com/kindrat86/mcp-deal-flow-signal) | Startup deal-flow signals from GitHub activity | Free | ![stars](https://img.shields.io/github/stars/kindrat86/mcp-deal-flow-signal?style=flat) | *[@kindrat86](https://github.com/kindrat86)* |
 
 ---
 
