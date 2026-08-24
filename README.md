@@ -156,6 +156,12 @@ A curated list of **MCP servers** and **AI skills** for finance, trading, and cr
 
 > 🙏 Thanks to these contributors who submitted their MCP servers!
 
+### Stock Market
+
+| Name | Description | Pricing | Stars | Contributor |
+|------|-------------|---------|-------|-------------|
+| [Edgrapi](https://github.com/paperandbeyond23-gif/edgrapi-mcp) | SEC EDGAR insider trades (Form 4), 8-Ks, 13F holdings & 13D/13G >5% stakes as clean JSON | Freemium | ![stars](https://img.shields.io/github/stars/paperandbeyond23-gif/edgrapi-mcp?style=flat) | *[@paperandbeyond23-gif](https://github.com/paperandbeyond23-gif)* |
+
 ### Cryptocurrency & Blockchain
 
 | Name | Description | Pricing | Stars | Contributor |
