@@ -166,6 +166,7 @@ A curated list of **MCP servers** and **AI skills** for finance, trading, and cr
 | [dexscreener-trending-mcp](https://github.com/kukapay/dexscreener-trending-mcp) | DexScreener trending tokens | Free | ![stars](https://img.shields.io/github/stars/kukapay/dexscreener-trending-mcp?style=flat) | *[@kukapay](https://github.com/kukapay)* |
 | [investor-agent](https://github.com/ferdousbhai/investor-agent) | MCP server for building an investor agent | Free | ![stars](https://img.shields.io/github/stars/ferdousbhai/investor-agent?style=flat) | *[@ferdousbhai](https://github.com/ferdousbhai)* |
 | [coincap-mcp](https://github.com/QuantGeekDev/coincap-mcp) | Access crypto data from CoinCap API | Free | ![stars](https://img.shields.io/github/stars/QuantGeekDev/coincap-mcp?style=flat) | *[@QuantGeekDev](https://github.com/QuantGeekDev)* |
+| [Aperture Wallet Knowledge](https://github.com/devdasx/aperture) | Read-only Aperture wallet knowledge for AI agents | Free | ![stars](https://img.shields.io/github/stars/devdasx/aperture?style=flat) | *[@devdasx](https://github.com/devdasx)* |
 
 ### Financial Intelligence
 
