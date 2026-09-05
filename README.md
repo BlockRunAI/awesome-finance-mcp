@@ -196,6 +196,12 @@ A curated list of **MCP servers** and **AI skills** for finance, trading, and cr
 | [Equibles](https://github.com/daniel3303/stock-market-mcp-server) | SEC filings, XBRL, 13F, insider & congress trades | Freemium | ![stars](https://img.shields.io/github/stars/daniel3303/stock-market-mcp-server?style=flat) | *[@daniel3303](https://github.com/daniel3303)* |
 | [AlphaSMO](https://github.com/alphasmo/alphasmo-tools) | CLI + MCP server for SEC 13F institutional holdings, insider trading (Form 4), and smart-money convergence signals | Freemium | ![stars](https://img.shields.io/github/stars/alphasmo/alphasmo-tools?style=flat) | *[@alphasmo](https://github.com/alphasmo)* |
 
+### Personal Finance
+
+| Name | Description | Pricing | Stars | Contributor |
+|------|-------------|---------|-------|-------------|
+| [OptionsAhoy MCP](https://github.com/AlvisoOculus/optionsahoy-mcp) | Equity compensation tax optimizer: ISO, NSO, RSU, QSBS | Free | ![stars](https://img.shields.io/github/stars/AlvisoOculus/optionsahoy-mcp?style=flat) | *[@AlvisoOculus](https://github.com/AlvisoOculus)* |
+
 ---
 
 ## Skills
