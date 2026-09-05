@@ -253,3 +253,4 @@ BlockRun enables AI agents to make autonomous payments using x402 protocol. No A
 To the extent possible under law, [BlockRun](https://blockrun.ai) has waived all copyright and related rights to this work.
 
 To the extent possible under law, [BlockRun](https://blockrun.ai) has waived all copyright and related rights to this work.
+| [Pineify MCP](https://github.com/pineifyapp/pineify-mcp) | Trading-code validation and market intelligence | Paid API key | ![GitHub stars](https://img.shields.io/github/stars/pineifyapp/pineify-mcp?style=flat) |
