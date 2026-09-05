@@ -160,6 +160,7 @@ A curated list of **MCP servers** and **AI skills** for finance, trading, and cr
 | [Norman Finance MCP](https://github.com/norman-finance/norman-mcp-server) | Accounting, invoices, taxes | Requires credentials | ![GitHub stars](https://img.shields.io/github/stars/norman-finance/norman-mcp-server?style=flat) |
 | [Chart Library MCP](https://github.com/grahammccain/chart-library-mcp) | Historical chart pattern search, 24M+ patterns | Freemium | ![GitHub stars](https://img.shields.io/github/stars/grahammccain/chart-library-mcp?style=flat) |
 | [Valyu MCP](https://github.com/valyuAI/valyu-mcp) | Comprehensive financial deepresearch platform | Free + Paid | ![GitHub stars](https://img.shields.io/github/stars/valyuAI/valyu-mcp?style=flat) |
+| [FilingFirehose MCP](https://filingfirehose.com/mcp) | SEC filing intelligence: body-text-classified 8-Ks (flags buried Item 1.05/5.02 events), Schedule 13D/G activist tagging, S-3/424B5 ATM detection, per-ticker forensic risk score (cyber/dilution/restatement/officer-departure/bankruptcy). Hosted at `https://mcp.filingfirehose.com`, no API key for 72h tier | Free + Paid | N/A (hosted) |
 
 ---
 
