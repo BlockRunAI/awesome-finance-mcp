@@ -131,6 +131,7 @@ A curated list of **MCP servers** and **AI skills** for finance, trading, and cr
 | [Ramp MCP](https://github.com/ramp-public/ramp_mcp) | Spend analytics via LLMs | Requires credentials | ![GitHub stars](https://img.shields.io/github/stars/ramp-public/ramp_mcp?style=flat) |
 | [Fewsats MCP](https://github.com/Fewsats/fewsats-mcp) | Bitcoin purchases for AI agents | Freemium | ![GitHub stars](https://img.shields.io/github/stars/Fewsats/fewsats-mcp?style=flat) |
 | [x402 Payment MCP](https://github.com/coinbase/x402) | HTTP-native payments for AI agents | Free (x402) | ![GitHub stars](https://img.shields.io/github/stars/coinbase/x402?style=flat) |
+| [pact-mcp-server](https://github.com/praxisagent/pact-vibekit-plugin) | Trustless on-chain escrow and payment channels for AI agents on Arbitrum (ERC-8183) | Free | ![GitHub stars](https://img.shields.io/github/stars/praxisagent/pact-vibekit-plugin?style=flat) |
 
 ---
 
@@ -235,3 +236,4 @@ BlockRun enables AI agents to make autonomous payments using x402 protocol. No A
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [BlockRun](https://blockrun.ai) has waived all copyright and related rights to this work.
+
