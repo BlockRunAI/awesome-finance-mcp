@@ -123,6 +123,7 @@ A curated list of **MCP servers** and **AI skills** for finance, trading, and cr
 | Name | Description | Pricing | Stars |
 |------|-------------|---------|-------|
 | [BankBridge](https://github.com/bankbridge-money/bankbridge-plugin) | Read-only bank access for AI agents. 12 tools: balances, transactions, recurring charges, cashflow, holdings. Live-fetch via Plaid. | $5/mo per bank | ![GitHub stars](https://img.shields.io/github/stars/bankbridge-money/bankbridge-plugin?style=flat) |
+| [Candor Finance](https://github.com/candorsystems/candor-finance) | Accounts, spending, budgets, goals, evidence | Requires account | ![GitHub stars](https://img.shields.io/github/stars/candorsystems/candor-finance?style=flat) |
 | [LunchMoney MCP](https://github.com/akutishevsky/lunchmoney-mcp) | Transaction tracking, budgeting | Requires account | ![GitHub stars](https://img.shields.io/github/stars/akutishevsky/lunchmoney-mcp?style=flat) |
 | [Monarch Money MCP](https://github.com/carsol/monarch-mcp-server) | Accounts, budgets, cashflow analysis | Requires account | ![GitHub stars](https://img.shields.io/github/stars/carsol/monarch-mcp-server?style=flat) |
 
