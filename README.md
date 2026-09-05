@@ -138,6 +138,7 @@ A curated list of **MCP servers** and **AI skills** for finance, trading, and cr
 | [x402 Payment MCP](https://github.com/coinbase/x402) | HTTP-native payments for AI agents | Free (x402) | ![GitHub stars](https://img.shields.io/github/stars/coinbase/x402?style=flat) |
 | [pact-mcp-server](https://github.com/praxisagent/pact-vibekit-plugin) | Trustless on-chain escrow and payment channels for AI agents on Arbitrum (ERC-8183) | Free | ![GitHub stars](https://img.shields.io/github/stars/praxisagent/pact-vibekit-plugin?style=flat) |
 | [CardZero MCP](https://github.com/mrocker/cardzero-mcp) | Smart-contract wallet for AI agents on Base (USDC) | Free (2% per tx) | ![GitHub stars](https://img.shields.io/github/stars/mrocker/cardzero-mcp?style=flat) |
+| [open-banking.io](https://github.com/open-banking-io/clients) | Cert-free PSD2/open banking API with MCP | Paid API key | ![GitHub stars](https://img.shields.io/github/stars/open-banking-io/clients?style=flat) |
 
 ---
 
