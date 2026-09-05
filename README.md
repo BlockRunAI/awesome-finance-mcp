@@ -151,7 +151,6 @@ A curated list of **MCP servers** and **AI skills** for finance, trading, and cr
 
 | Name | Description | Pricing | Stars |
 |------|-------------|---------|-------|
-| [Thirdweb MCP](https://github.com/thirdweb-dev/ai) | 2,000+ blockchains, contracts | Freemium | ![GitHub stars](https://img.shields.io/github/stars/thirdweb-dev/ai?style=flat) |
 | [Base MCP](https://github.com/base/base-mcp) | Base network + Coinbase API | Requires credentials | ![GitHub stars](https://img.shields.io/github/stars/base/base-mcp?style=flat) |
 | [Solana MCP](https://github.com/sendaifun/solana-agent-kit) | Solana agent kit with MCP support | Free | ![GitHub stars](https://img.shields.io/github/stars/sendaifun/solana-agent-kit?style=flat) |
 | [Bitcoin Lightning MCP](https://github.com/AbdelStark/bitcoin-mcp) | Bitcoin & Lightning operations | Free | ![GitHub stars](https://img.shields.io/github/stars/AbdelStark/bitcoin-mcp?style=flat) |
