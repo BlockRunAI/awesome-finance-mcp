@@ -90,6 +90,7 @@ A curated list of **MCP servers** and **AI skills** for finance, trading, and cr
 | [Coinbase MCP](https://github.com/coinbase/agentkit) | Wallet operations and trading via AgentKit | Requires credentials | ![GitHub stars](https://img.shields.io/github/stars/coinbase/agentkit?style=flat) |
 | [DeFi Trading MCP](https://github.com/edkdev/defi-trading-mcp) | Autonomous trading across 17+ chains | Requires wallet | ![GitHub stars](https://img.shields.io/github/stars/edkdev/defi-trading-mcp?style=flat) |
 | [Armor Crypto MCP](https://github.com/armorwallet/armor-crypto-mcp) | Swaps, DeFi, wallet management | Requires wallet | ![GitHub stars](https://img.shields.io/github/stars/armorwallet/armor-crypto-mcp?style=flat) |
+| [Clicks Protocol MCP](https://github.com/clicks-protocol/clicks-protocol) | Autonomous USDC yield for AI agents (80/20 split, Morpho/Aave) | No wallet needed (read-only) | ![GitHub stars](https://img.shields.io/github/stars/clicks-protocol/clicks-protocol?style=flat) |
 
 ### On-Chain Analytics
 
