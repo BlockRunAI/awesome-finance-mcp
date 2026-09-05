@@ -85,6 +85,7 @@ A curated list of **MCP servers** and **AI skills** for finance, trading, and cr
 | [TradingView MCP](https://github.com/atilaahmettaner/tradingview-mcp) | Advanced market analysis, multi-exchange | Freemium | ![GitHub stars](https://img.shields.io/github/stars/atilaahmettaner/tradingview-mcp?style=flat) |
 | [AgentServices](https://github.com/vbkotecha/aiservices-api) | 54-service x402-paid crypto/market data API with 37 MCP tools | x402 ($0.01/call) | ![GitHub stars](https://img.shields.io/github/stars/vbkotecha/aiservices-api?style=flat) |
 | [AgentServices](https://agentservices.to) | 54+ crypto/market data APIs with x402 on-chain payments, 37 MCP tools, DeFi yields, on-chain whale tracking | x402 ($0.01/call) | — |
+| [CoinRebate MCP](https://github.com/skheman2026-sketch/coinrebate-mcp-server) | Live fees & rebate comparison across 6 exchanges, country-aware compliance filtering | Free | ![GitHub stars](https://img.shields.io/github/stars/skheman2026-sketch/coinrebate-mcp-server?style=flat) |
 
 ### Crypto Trading Execution
 
