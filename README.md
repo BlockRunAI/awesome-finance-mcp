@@ -195,6 +195,7 @@ A curated list of **MCP servers** and **AI skills** for finance, trading, and cr
 | [coincap-mcp](https://github.com/QuantGeekDev/coincap-mcp) | Access crypto data from CoinCap API | Free | ![stars](https://img.shields.io/github/stars/QuantGeekDev/coincap-mcp?style=flat) | *[@QuantGeekDev](https://github.com/QuantGeekDev)* |
 | [Bitget Agent MCP](https://github.com/Bitget-AI/agent-mcp) | Official Bitget MCP trading server - spot & futures trading, 89 operations via 14 intent-based tools, built on UTA v3 API | Requires API key | ![stars](https://img.shields.io/github/stars/Bitget-AI/agent-mcp?style=flat) | *[@lukeGao0](https://github.com/lukeGao0)* |
 | [Aperture Wallet Knowledge](https://github.com/devdasx/aperture) | Read-only Aperture wallet knowledge for AI agents | Free | ![stars](https://img.shields.io/github/stars/devdasx/aperture?style=flat) | *[@devdasx](https://github.com/devdasx)* |
+| [x402 Preflight](https://github.com/chico10117/basepay-readiness-service) | Preflight checks for x402 endpoints before payment | Freemium | ![stars](https://img.shields.io/github/stars/chico10117/basepay-readiness-service?style=flat) | *[@chico10117](https://github.com/chico10117)* |
 
 ### Financial Intelligence
 
