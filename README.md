@@ -221,6 +221,9 @@ Skills are **task-level workflows** built on top of MCP servers or external APIs
 | [Trading Skills](https://github.com/tradermonty/claude-trading-skills) | IBD-style RS Rating for identifying stocks with strong momentum | Claude Code Skill | ![GitHub stars](https://img.shields.io/github/stars/tradermonty/claude-trading-skills?style=flat) |
 | [Invoice Organizer](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/invoice-organizer) | Organize invoices and receipts for tax prep - extract, rename, sort | Claude Code Skill | - |
 | [Surf Crypto Intelligence](https://github.com/BlockRunAI/blockrun-mcp/tree/main/skills/surf) | Crypto social, news, prediction, wallet, and SQL data | Surf + BlockRun | ![GitHub stars](https://img.shields.io/github/stars/BlockRunAI/blockrun-mcp?style=flat) |
+| [Superior Skills](https://github.com/Superior-Trade/superior-skills) | Agent skills for strategy authoring, backtesting, and trading deployment | Superior Trade API | ![GitHub stars](https://img.shields.io/github/stars/Superior-Trade/superior-skills?style=flat) |
+| [Invoice Organizer](https://github.com/ComposioHQ/awesome-claude-skills/tree/main/invoice-organizer) | Organize invoices and receipts for tax prep - extract, rename, sort | Claude Code Skill | - |
+| [Twitter Intel](https://github.com/BlockRunAI/blockrun-agent-wallet/tree/main/skills/twitter-intel) | Real-time X/Twitter intelligence for finance - monitor, summarize, alerts | Grok + BlockRun | ~$0.25-0.50/query |
 
 ### Adding a Skill
 
