@@ -213,6 +213,7 @@ Skills are **task-level workflows** built on top of MCP servers or external APIs
 
 | Name | Description | Built On | Stars |
 |------|-------------|----------|-------|
+| [AShareHub Chinese Market Data](https://github.com/ChuYiCui1/AshareHub-skills) | Query A-shares, ETFs, fundamentals, capital flows, and technical indicators as pandas DataFrames (free tier: 100 requests/day) | AShareHub API + Python SDK | ![GitHub stars](https://img.shields.io/github/stars/ChuYiCui1/AshareHub-skills?style=flat) |
 | [Equity Research](https://github.com/quant-sentiment-ai/claude-equity-research) | Institutional-grade equity research with buy/sell recommendations, fundamental analysis, technical indicators | Claude Code Plugin | ![GitHub stars](https://img.shields.io/github/stars/quant-sentiment-ai/claude-equity-research?style=flat) |
 | [FinLab AI](https://github.com/koreal6803/finlab-ai) | Mass-produce alpha-generating quant strategies, Taiwan stock market analysis | FinLab + Claude | ![GitHub stars](https://img.shields.io/github/stars/koreal6803/finlab-ai?style=flat) |
 | [Trading Terminal](https://github.com/degentic-tools/claude-code-trading-terminal) | Agent-native trading terminal - deploy sub-agents for trades, positions, risk management | Claude Code + Jupiter | ![GitHub stars](https://img.shields.io/github/stars/degentic-tools/claude-code-trading-terminal?style=flat) |
