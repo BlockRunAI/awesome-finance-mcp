@@ -108,6 +108,7 @@ A curated list of **MCP servers** and **AI skills** for finance, trading, and cr
 | [PancakeSwap PoolSpy MCP](https://github.com/kukapay/pancakeswap-poolspy-mcp) | Track new liquidity pools | Free | ![GitHub stars](https://img.shields.io/github/stars/kukapay/pancakeswap-poolspy-mcp?style=flat) |
 | [Free USDC Transfer MCP](https://github.com/magnetai/mcp-free-usdc-transfer) | Send USDC on Base for free | Free (x402) | ![GitHub stars](https://img.shields.io/github/stars/magnetai/mcp-free-usdc-transfer?style=flat) |
 | [Arcadia Finance MCP](https://github.com/arcadia-finance/mcp-server) | Uniswap & Aerodrome liquidity positions with leverage, rebalancing, yield optimization | Free | ![GitHub stars](https://img.shields.io/github/stars/arcadia-finance/mcp-server?style=flat) |
+| [AutoSwap](https://github.com/fino-oss/autoswap) | Cross-chain swaps in one call — auto-routing (Paraswap/Uniswap V3), bridge (Across ~2s), cold-start gas resolution, sandwich protection. Base/Polygon/Arbitrum/Optimism. MCP-native + pip + npm. | Free (MIT) | ![GitHub stars](https://img.shields.io/github/stars/fino-oss/autoswap?style=flat) |
 
 ---
 
