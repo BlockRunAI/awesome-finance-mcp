@@ -96,6 +96,7 @@ A curated list of **MCP servers** and **AI skills** for finance, trading, and cr
 | [Clicks Protocol MCP](https://github.com/clicks-protocol/clicks-protocol) | Autonomous USDC yield for AI agents (80/20 split, Morpho/Aave) | No wallet needed (read-only) | ![GitHub stars](https://img.shields.io/github/stars/clicks-protocol/clicks-protocol?style=flat) |
 
 ### On-Chain Analytics
+- [PnL Labs](https://github.com/PnLlabs/pnllabs-mcp) - Trust & risk verdicts for AI trading agents on Solana: real realized-PnL wallet trust (not peak scores), wallet funding forensics, token safety, and trade cost. Paid per call via x402. ([site](https://pnllabs.com))
 
 | Name | Description | Pricing | Stars |
 |------|-------------|---------|-------|
