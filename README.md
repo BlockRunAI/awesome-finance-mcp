@@ -152,6 +152,7 @@ A curated list of **MCP servers** and **AI skills** for finance, trading, and cr
 
 | Name | Description | Pricing | Stars |
 |------|-------------|---------|-------|
+| [The Stall](https://github.com/thebrierfox/the-stall) | 208 pay-per-call AI capabilities: finance, crypto/DeFi, trading, prediction markets, weather, aviation, research. USDC micropayments via x402 on Base — no API keys | Pay-per-use (x402) | ![GitHub stars](https://img.shields.io/github/stars/thebrierfox/the-stall?style=flat) |
 | [OpenBB Platform](https://github.com/OpenBB-finance/OpenBB) | Comprehensive financial data platform | Free + Paid | ![GitHub stars](https://img.shields.io/github/stars/OpenBB-finance/OpenBB?style=flat) |
 | [TrendRadar](https://github.com/sansan0/TrendRadar) | AI sentiment monitoring, hot topic tracking | Free | ![GitHub stars](https://img.shields.io/github/stars/sansan0/TrendRadar?style=flat) |
 | [YIELD INTELLIGENCE](https://github.com/thebrierfox/intuitek-ace) | Passive income analysis — live US Treasury rates, dividend ETFs, REITs, and AI-powered portfolio optimizer targeting a monthly income goal. Open endpoint: `https://api.intuitek.ai/yield/mcp` | Free | ![GitHub stars](https://img.shields.io/github/stars/thebrierfox/intuitek-ace?style=flat) |
@@ -239,3 +240,4 @@ BlockRun enables AI agents to make autonomous payments using x402 protocol. No A
 
 To the extent possible under law, [BlockRun](https://blockrun.ai) has waived all copyright and related rights to this work.
 
+To the extent possible under law, [BlockRun](https://blockrun.ai) has waived all copyright and related rights to this work.
