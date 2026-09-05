@@ -174,6 +174,7 @@ A curated list of **MCP servers** and **AI skills** for finance, trading, and cr
 | [FilingFirehose MCP](https://filingfirehose.com/mcp) | SEC filing intelligence: body-text-classified 8-Ks (flags buried Item 1.05/5.02 events), Schedule 13D/G activist tagging, S-3/424B5 ATM detection, per-ticker forensic risk score (cyber/dilution/restatement/officer-departure/bankruptcy). Hosted at `https://mcp.filingfirehose.com`, no API key for 72h tier | Free + Paid | N/A (hosted) |
 | [BDE Score](https://github.com/hbhqq9/bde-score) | Multi-factor quantitative stock analysis MCP server (US/HK/CN A-share). Transparent 0-100 composite scores, EU AI Act Art.50 compliant | Free | ![stars](https://img.shields.io/github/stars/hbhqq9/bde-score?style=flat-square) |
 | [Worthune](https://github.com/CapsteraSupport/worthune-sdk) | Financial planning models | Freemium | ![GitHub stars](https://img.shields.io/github/stars/CapsteraSupport/worthune-sdk?style=flat) |
+| [Cue Data MCP](https://github.com/sensedeal/cue-skills) | Cue Data MCP: macro, SEC EDGAR, IPO, sanctions, statutes | Requires API key | ![GitHub stars](https://img.shields.io/github/stars/sensedeal/cue-skills?style=flat) |
 
 ---
 
