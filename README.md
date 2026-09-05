@@ -183,6 +183,7 @@ A curated list of **MCP servers** and **AI skills** for finance, trading, and cr
 | [dexscreener-trending-mcp](https://github.com/kukapay/dexscreener-trending-mcp) | DexScreener trending tokens | Free | ![stars](https://img.shields.io/github/stars/kukapay/dexscreener-trending-mcp?style=flat) | *[@kukapay](https://github.com/kukapay)* |
 | [investor-agent](https://github.com/ferdousbhai/investor-agent) | MCP server for building an investor agent | Free | ![stars](https://img.shields.io/github/stars/ferdousbhai/investor-agent?style=flat) | *[@ferdousbhai](https://github.com/ferdousbhai)* |
 | [coincap-mcp](https://github.com/QuantGeekDev/coincap-mcp) | Access crypto data from CoinCap API | Free | ![stars](https://img.shields.io/github/stars/QuantGeekDev/coincap-mcp?style=flat) | *[@QuantGeekDev](https://github.com/QuantGeekDev)* |
+| [Bitget Agent MCP](https://github.com/Bitget-AI/agent-mcp) | Official Bitget MCP trading server - spot & futures trading, 89 operations via 14 intent-based tools, built on UTA v3 API | Requires API key | ![stars](https://img.shields.io/github/stars/Bitget-AI/agent-mcp?style=flat) | *[@lukeGao0](https://github.com/lukeGao0)* |
 
 ### Financial Intelligence
 
