@@ -153,6 +153,7 @@ A curated list of **MCP servers** and **AI skills** for finance, trading, and cr
 | [TrendRadar](https://github.com/sansan0/TrendRadar) | AI sentiment monitoring, hot topic tracking | Free | ![GitHub stars](https://img.shields.io/github/stars/sansan0/TrendRadar?style=flat) |
 | [Finbrain MCP](https://github.com/ahmetsbilgin/finbrain-mcp) | Institutional-grade alternative data | Requires API key | ![GitHub stars](https://img.shields.io/github/stars/ahmetsbilgin/finbrain-mcp?style=flat) |
 | [Norman Finance MCP](https://github.com/norman-finance/norman-mcp-server) | Accounting, invoices, taxes | Requires credentials | ![GitHub stars](https://img.shields.io/github/stars/norman-finance/norman-mcp-server?style=flat) |
+| [Chart Library MCP](https://github.com/grahammccain/chart-library-mcp) | Historical chart pattern search, 24M+ patterns | Freemium | ![GitHub stars](https://img.shields.io/github/stars/grahammccain/chart-library-mcp?style=flat) |
 
 ---
 
