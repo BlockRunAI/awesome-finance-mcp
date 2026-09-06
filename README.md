@@ -223,12 +223,21 @@ Skills are **task-level workflows** built on top of MCP servers or external APIs
 | [AShareHub Chinese Market Data](https://github.com/ChuYiCui1/AshareHub-skills) | A-shares, ETFs, fundamentals, capital flows, technical indicators | AShareHub API + Python SDK | ![GitHub stars](https://img.shields.io/github/stars/ChuYiCui1/AshareHub-skills?style=flat) |
 | [Equity Research](https://github.com/quant-sentiment-ai/claude-equity-research) | Institutional-grade equity research with buy/sell recommendations, fundamental analysis, technical indicators | Claude Code Plugin | ![GitHub stars](https://img.shields.io/github/stars/quant-sentiment-ai/claude-equity-research?style=flat) |
 | [FinLab AI](https://github.com/koreal6803/finlab-ai) | Mass-produce alpha-generating quant strategies, Taiwan stock market analysis | FinLab + Claude | ![GitHub stars](https://img.shields.io/github/stars/koreal6803/finlab-ai?style=flat) |
+| [Market Brief](https://github.com/beepboop2025/market-brief) | Funding/liquidity JSON to briefs and local comparisons | Seiche public APIs + Python (Free) | ![GitHub stars](https://img.shields.io/github/stars/beepboop2025/market-brief?style=flat) |
 | [Trading Terminal](https://github.com/degentic-tools/claude-code-trading-terminal) | Agent-native trading terminal - deploy sub-agents for trades, positions, risk management | Claude Code + Jupiter | ![GitHub stars](https://img.shields.io/github/stars/degentic-tools/claude-code-trading-terminal?style=flat) |
 | [Claude Investor](https://github.com/martinxu9/claude-investor) | Investment analysis agent - price data, balance sheets, sentiment, analyst ratings | Claude 3 Opus/Haiku | ![GitHub stars](https://img.shields.io/github/stars/martinxu9/claude-investor?style=flat) |
 | [Trading Skills](https://github.com/tradermonty/claude-trading-skills) | IBD-style RS Rating for identifying stocks with strong momentum | Claude Code Skill | ![GitHub stars](https://img.shields.io/github/stars/tradermonty/claude-trading-skills?style=flat) |
 | [Invoice Organizer](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/invoice-organizer) | Organize invoices and receipts for tax prep - extract, rename, sort | Claude Code Skill | - |
 | [Surf Crypto Intelligence](https://github.com/BlockRunAI/blockrun-mcp/tree/main/skills/surf) | Crypto social, news, prediction, wallet, and SQL data | Surf + BlockRun | ![GitHub stars](https://img.shields.io/github/stars/BlockRunAI/blockrun-mcp?style=flat) |
 | [Superior Skills](https://github.com/Superior-Trade/superior-skills) | Agent skills for strategy authoring, backtesting, and trading deployment | Superior Trade API | ![GitHub stars](https://img.shields.io/github/stars/Superior-Trade/superior-skills?style=flat) |
+
+**Market Brief usage:** Python 3.10+ reads Seiche's public money-market, capital-market, and Undertow feeds, or a Financial Evidence JSON packet via `--input packet.json`. It outputs source-linked Markdown or `market-brief.v1` JSON; `--previous brief.json` compares a locally saved brief. The MIT code and local workflow are Free; hosted early access is Free, subject to upstream availability.
+
+```bash
+git clone --branch v0.1.0 --depth 1 https://github.com/beepboop2025/market-brief.git
+cd market-brief
+python3 skills/market-brief/scripts/market_brief.py --format markdown
+```
 
 ### Adding a Skill
 
