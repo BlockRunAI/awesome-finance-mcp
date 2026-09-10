@@ -211,6 +211,7 @@ A curated list of **MCP servers** and **AI skills** for finance, trading, and cr
 | Name | Description | Pricing | Stars | Contributor |
 |------|-------------|---------|-------|-------------|
 | [OptionsAhoy MCP](https://github.com/AlvisoOculus/optionsahoy-mcp) | Equity compensation tax optimizer: ISO, NSO, RSU, QSBS | Free | ![stars](https://img.shields.io/github/stars/AlvisoOculus/optionsahoy-mcp?style=flat) | *[@AlvisoOculus](https://github.com/AlvisoOculus)* |
+| [Bank Statement MCP](https://github.com/theluckystrike/mcp-bank-statement) | Categorise a bank CSV and reconcile it to a ledger | Freemium | ![stars](https://img.shields.io/github/stars/theluckystrike/mcp-bank-statement?style=flat) | *[@theluckystrike](https://github.com/theluckystrike)* |
 
 ---
 
