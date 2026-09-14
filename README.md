@@ -155,6 +155,7 @@ A curated list of **MCP servers** and **AI skills** for finance, trading, and cr
 | [Solana MCP](https://github.com/sendaifun/solana-agent-kit) | Solana agent kit with MCP support | Free | ![GitHub stars](https://img.shields.io/github/stars/sendaifun/solana-agent-kit?style=flat) |
 | [Bitcoin Lightning MCP](https://github.com/AbdelStark/bitcoin-mcp) | Bitcoin & Lightning operations | Free | ![GitHub stars](https://img.shields.io/github/stars/AbdelStark/bitcoin-mcp?style=flat) |
 | [ZKProofport MCP](https://github.com/zkproofport/proofport-ai) | Zero-knowledge identity proofs (Coinbase KYC, Country, OIDC) for AI agents on Base | x402 USDC pay-per-proof | ![GitHub stars](https://img.shields.io/github/stars/zkproofport/proofport-ai?style=flat) |
+| [Sato Hub MCP](https://github.com/satohubai/mcp) | Scored index of onchain-agent tools and MCP servers | Free | ![GitHub stars](https://img.shields.io/github/stars/satohubai/mcp?style=flat) |
 
 ---
 
