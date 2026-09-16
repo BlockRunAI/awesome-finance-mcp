@@ -175,6 +175,7 @@ A curated list of **MCP servers** and **AI skills** for finance, trading, and cr
 | [Worthune](https://github.com/CapsteraSupport/worthune-sdk) | Financial planning models | Freemium | ![GitHub stars](https://img.shields.io/github/stars/CapsteraSupport/worthune-sdk?style=flat) |
 | [Cue Data MCP](https://github.com/sensedeal/cue-skills) | Cue Data MCP: macro, SEC EDGAR, IPO, sanctions, statutes | Requires API key | ![GitHub stars](https://img.shields.io/github/stars/sensedeal/cue-skills?style=flat) |
 | [Pineify MCP](https://github.com/pineifyapp/pineify-mcp) | Trading-code validation and market intelligence | Paid API key | ![GitHub stars](https://img.shields.io/github/stars/pineifyapp/pineify-mcp?style=flat) |
+| [Statsnet](https://github.com/usenetstate/statsnet-mcp) | World company background check: registration, executives, courts and finances via remote MCP | Freemium | ![GitHub stars](https://img.shields.io/github/stars/usenetstate/statsnet-mcp?style=flat) |
 
 ---
 
@@ -205,6 +206,7 @@ A curated list of **MCP servers** and **AI skills** for finance, trading, and cr
 | [AlphaSMO](https://github.com/alphasmo/alphasmo-tools) | SEC 13F holdings, Form 4 insider trades, smart-money signals | Freemium | ![stars](https://img.shields.io/github/stars/alphasmo/alphasmo-tools?style=flat) | *[@alphasmo](https://github.com/alphasmo)* |
 | [GitDealFlow](https://github.com/kindrat86/mcp-deal-flow-signal) | Startup deal-flow signals from GitHub activity | Free | ![stars](https://img.shields.io/github/stars/kindrat86/mcp-deal-flow-signal?style=flat) | *[@kindrat86](https://github.com/kindrat86)* |
 | [Predge](https://github.com/predgeAI/whale-data-mcp) | Signed, outcome-verified trader-skill (edge) scores for Polymarket & Kalshi wallets | Pay-per-call (x402) | ![stars](https://img.shields.io/github/stars/predgeAI/whale-data-mcp?style=flat) | *[@predge-ai](https://github.com/predge-ai)* |
+| [Statsnet](https://github.com/usenetstate/statsnet-mcp) | World company background check via remote MCP | Freemium | ![stars](https://img.shields.io/github/stars/usenetstate/statsnet-mcp?style=flat) | *[@stsqit](https://github.com/stsqit)* |
 
 ### Personal Finance
 
