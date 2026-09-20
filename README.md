@@ -231,6 +231,7 @@ Skills are **task-level workflows** built on top of MCP servers or external APIs
 | [Superior Skills](https://github.com/Superior-Trade/superior-skills) | Agent skills for strategy authoring, backtesting, and trading deployment | Superior Trade API | ![GitHub stars](https://img.shields.io/github/stars/Superior-Trade/superior-skills?style=flat) |
 
 ### Adding a Skill
+- [Continuum-AI-Corp/OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) — record & replay AI coding-agent runs offline.
 
 A skill entry must include:
 - A stable link (repo or path)
