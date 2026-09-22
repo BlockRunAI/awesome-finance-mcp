@@ -229,6 +229,7 @@ Skills are **task-level workflows** built on top of MCP servers or external APIs
 | [Invoice Organizer](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/invoice-organizer) | Organize invoices and receipts for tax prep - extract, rename, sort | Claude Code Skill | - |
 | [Surf Crypto Intelligence](https://github.com/BlockRunAI/blockrun-mcp/tree/main/skills/surf) | Crypto social, news, prediction, wallet, and SQL data | Surf + BlockRun | ![GitHub stars](https://img.shields.io/github/stars/BlockRunAI/blockrun-mcp?style=flat) |
 | [Superior Skills](https://github.com/Superior-Trade/superior-skills) | Agent skills for strategy authoring, backtesting, and trading deployment | Superior Trade API | ![GitHub stars](https://img.shields.io/github/stars/Superior-Trade/superior-skills?style=flat) |
+| [FarmDash OpenClaw Skills](https://github.com/Parmasanandgarlic/farmdash-openclaw-skills) | Read-only DeFi skills: Trail Heat, swaps, perps, sybil risk | FarmDash Agent API + MCP manifest | ![GitHub stars](https://img.shields.io/github/stars/Parmasanandgarlic/farmdash-openclaw-skills?style=flat) |
 
 ### Adding a Skill
 
