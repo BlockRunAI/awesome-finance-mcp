@@ -229,6 +229,7 @@ Skills are **task-level workflows** built on top of MCP servers or external APIs
 | [Invoice Organizer](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/invoice-organizer) | Organize invoices and receipts for tax prep - extract, rename, sort | Claude Code Skill | - |
 | [Surf Crypto Intelligence](https://github.com/BlockRunAI/blockrun-mcp/tree/main/skills/surf) | Crypto social, news, prediction, wallet, and SQL data | Surf + BlockRun | ![GitHub stars](https://img.shields.io/github/stars/BlockRunAI/blockrun-mcp?style=flat) |
 | [Superior Skills](https://github.com/Superior-Trade/superior-skills) | Agent skills for strategy authoring, backtesting, and trading deployment | Superior Trade API | ![GitHub stars](https://img.shields.io/github/stars/Superior-Trade/superior-skills?style=flat) |
+| [TraderSpy Skills](https://github.com/target1m/traderspy-mcp/tree/master/skills) | Crypto futures market briefs, TA, screens, AI signals, whale tracking, position checks | TraderSpy MCP | ![GitHub stars](https://img.shields.io/github/stars/target1m/traderspy-mcp?style=flat) |
 
 ### Adding a Skill
 
