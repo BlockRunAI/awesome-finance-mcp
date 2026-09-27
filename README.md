@@ -168,6 +168,7 @@ A curated list of **MCP servers** and **AI skills** for finance, trading, and cr
 | [YIELD INTELLIGENCE](https://github.com/thebrierfox/intuitek-ace) | Treasury rates, dividend ETFs, REITs, income portfolio optimizer | Free | ![GitHub stars](https://img.shields.io/github/stars/thebrierfox/intuitek-ace?style=flat) |
 | [Finbrain MCP](https://github.com/ahmetsbilgin/finbrain-mcp) | Institutional-grade alternative data | Requires API key | ![GitHub stars](https://img.shields.io/github/stars/ahmetsbilgin/finbrain-mcp?style=flat) |
 | [Norman Finance MCP](https://github.com/norman-finance/norman-mcp-server) | Accounting, invoices, taxes | Requires credentials | ![GitHub stars](https://img.shields.io/github/stars/norman-finance/norman-mcp-server?style=flat) |
+| [Aikount MCP](https://github.com/mutonby/aikount-mcp) | Spanish accounting: invoices, bank reconciliation, VAT 303 | Freemium | ![GitHub stars](https://img.shields.io/github/stars/mutonby/aikount-mcp?style=flat) |
 | [Chart Library MCP](https://github.com/grahammccain/chart-library-mcp) | Historical chart pattern search, 24M+ patterns | Freemium | ![GitHub stars](https://img.shields.io/github/stars/grahammccain/chart-library-mcp?style=flat) |
 | [Valyu MCP](https://github.com/valyuAI/valyu-mcp) | Comprehensive financial deepresearch platform | Free + Paid | ![GitHub stars](https://img.shields.io/github/stars/valyuAI/valyu-mcp?style=flat) |
 | [FilingFirehose MCP](https://filingfirehose.com/mcp) | 8-K item detection, 13D/G activist tagging, forensic risk scores | Free + Paid | N/A (hosted) |
