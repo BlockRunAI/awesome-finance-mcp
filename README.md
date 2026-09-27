@@ -79,6 +79,7 @@ A curated list of **MCP servers** and **AI skills** for finance, trading, and cr
 
 | Name | Description | Pricing | Stars |
 |------|-------------|---------|-------|
+| [Undertow](https://github.com/beepboop2025/undertow-mcp) | Sized BTC exit estimates from published venue depth | Freemium | ![GitHub stars](https://img.shields.io/github/stars/beepboop2025/undertow-mcp?style=flat) |
 | [DexPaprika MCP](https://github.com/coinpaprika/dexpaprika-mcp) | DEX analytics across 20+ blockchains | Free | ![GitHub stars](https://img.shields.io/github/stars/coinpaprika/dexpaprika-mcp?style=flat) |
 | [CCXT MCP](https://github.com/Nayshins/mcp-server-ccxt) | Data from 20+ exchanges via CCXT | Free | ![GitHub stars](https://img.shields.io/github/stars/Nayshins/mcp-server-ccxt?style=flat) |
 | [Crypto Indicators MCP](https://github.com/kukapay/crypto-indicators-mcp) | Technical analysis indicators | Free | ![GitHub stars](https://img.shields.io/github/stars/kukapay/crypto-indicators-mcp?style=flat) |
@@ -162,6 +163,8 @@ A curated list of **MCP servers** and **AI skills** for finance, trading, and cr
 
 | Name | Description | Pricing | Stars |
 |------|-------------|---------|-------|
+| [LiquiLens](https://github.com/beepboop2025/liquilens-mcp) | Indian bank NPA disclosures and cited filing evidence | Freemium | ![GitHub stars](https://img.shields.io/github/stars/beepboop2025/liquilens-mcp?style=flat) |
+| [Seiche](https://github.com/LiquiLensLabs/seiche) | Dollar funding conditions with source clocks and gaps | Freemium | ![GitHub stars](https://img.shields.io/github/stars/LiquiLensLabs/seiche?style=flat) |
 | [The Stall](https://github.com/thebrierfox/the-stall) | 208 pay-per-call capabilities: finance, crypto, prediction markets | Pay-per-use (x402) | ![GitHub stars](https://img.shields.io/github/stars/thebrierfox/the-stall?style=flat) |
 | [OpenBB Platform](https://github.com/OpenBB-finance/OpenBB) | Comprehensive financial data platform | Free + Paid | ![GitHub stars](https://img.shields.io/github/stars/OpenBB-finance/OpenBB?style=flat) |
 | [TrendRadar](https://github.com/sansan0/TrendRadar) | AI sentiment monitoring, hot topic tracking | Free | ![GitHub stars](https://img.shields.io/github/stars/sansan0/TrendRadar?style=flat) |
