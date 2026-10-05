@@ -62,6 +62,7 @@ A curated list of **MCP servers** and **AI skills** for finance, trading, and cr
 | [Yahoo Finance MCP](https://github.com/maxscheijen/mcp-yahoo-finance) | Yahoo Finance stock data | Free | ![GitHub stars](https://img.shields.io/github/stars/maxscheijen/mcp-yahoo-finance?style=flat) |
 | [HK Finance MCP](https://github.com/hkopenai/hk-finance-mcp-server) | Hong Kong stock market data | Free | ![GitHub stars](https://img.shields.io/github/stars/hkopenai/hk-finance-mcp-server?style=flat) |
 | [Edgrapi](https://github.com/paperandbeyond23-gif/edgrapi-skills) | SEC EDGAR insider trades, 8-Ks, 13F/13D-G, XBRL, full-text search | Freemium | ![GitHub stars](https://img.shields.io/github/stars/paperandbeyond23-gif/edgrapi-skills?style=flat) |
+| [SqueezeOS MCP](https://github.com/Timwal78/SqueezeOS) | Institutional short-squeeze scanner, options flow, IWM 0DTE, Gamma Sonar, Ticker Dossier, AI council verdicts | x402 (Base USDC) | ![GitHub stars](https://img.shields.io/github/stars/Timwal78/SqueezeOS?style=flat) |
 
 ### Trading Execution
 
@@ -144,6 +145,7 @@ A curated list of **MCP servers** and **AI skills** for finance, trading, and cr
 | [CardZero MCP](https://github.com/mrocker/cardzero-mcp) | Smart-contract wallet for AI agents on Base (USDC) | Free (2% per tx) | ![GitHub stars](https://img.shields.io/github/stars/mrocker/cardzero-mcp?style=flat) |
 | [open-banking.io](https://github.com/open-banking-io/clients) | Cert-free PSD2/open banking API with MCP | Paid API key | ![GitHub stars](https://img.shields.io/github/stars/open-banking-io/clients?style=flat) |
 | [stipend](https://github.com/stipend-sh/stipend) | Non-custodial USDC wallet with code-enforced limits | Free (self-hosted) | ![GitHub stars](https://img.shields.io/github/stars/stipend-sh/stipend?style=flat) |
+| [Provider Trust MCP](https://github.com/Timwal78/sml-agent-credit-bureau) | Counterparty identity checks, provider trust, and FICO-style credit scoring for AI agent spend | x402 (Base USDC) | ![GitHub stars](https://img.shields.io/github/stars/Timwal78/sml-agent-credit-bureau?style=flat) |
 
 ---
 
@@ -175,6 +177,7 @@ A curated list of **MCP servers** and **AI skills** for finance, trading, and cr
 | [Worthune](https://github.com/CapsteraSupport/worthune-sdk) | Financial planning models | Freemium | ![GitHub stars](https://img.shields.io/github/stars/CapsteraSupport/worthune-sdk?style=flat) |
 | [Cue Data MCP](https://github.com/sensedeal/cue-skills) | Cue Data MCP: macro, SEC EDGAR, IPO, sanctions, statutes | Requires API key | ![GitHub stars](https://img.shields.io/github/stars/sensedeal/cue-skills?style=flat) |
 | [Pineify MCP](https://github.com/pineifyapp/pineify-mcp) | Trading-code validation and market intelligence | Paid API key | ![GitHub stars](https://img.shields.io/github/stars/pineifyapp/pineify-mcp?style=flat) |
+| [SML RWA Intelligence MCP](https://github.com/Timwal78/SML_Portfolio) | Robinhood prediction market and tokenized-stock/RWA intelligence, equity volatility signals | x402 (Base USDC) | ![GitHub stars](https://img.shields.io/github/stars/Timwal78/SML_Portfolio?style=flat) |
 
 ---
 
