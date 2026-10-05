@@ -128,6 +128,7 @@ A curated list of **MCP servers** and **AI skills** for finance, trading, and cr
 | [Candor Finance](https://github.com/candorsystems/candor-finance) | Accounts, spending, budgets, goals, evidence | Requires account | ![GitHub stars](https://img.shields.io/github/stars/candorsystems/candor-finance?style=flat) |
 | [LunchMoney MCP](https://github.com/akutishevsky/lunchmoney-mcp) | Transaction tracking, budgeting | Requires account | ![GitHub stars](https://img.shields.io/github/stars/akutishevsky/lunchmoney-mcp?style=flat) |
 | [Monarch Money MCP](https://github.com/carsol/monarch-mcp-server) | Accounts, budgets, cashflow analysis | Requires account | ![GitHub stars](https://img.shields.io/github/stars/carsol/monarch-mcp-server?style=flat) |
+| [Synci](https://github.com/synciio/synci-mcp) | Read-only bank, brokerage & crypto account data | Requires account | ![GitHub stars](https://img.shields.io/github/stars/synciio/synci-mcp?style=flat) |
 
 ---
 
