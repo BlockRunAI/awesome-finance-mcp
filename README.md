@@ -79,6 +79,7 @@ A curated list of **MCP servers** and **AI skills** for finance, trading, and cr
 
 | Name | Description | Pricing | Stars |
 |------|-------------|---------|-------|
+| [0xArchive MCP](https://github.com/0xArchiveIO/0xarchive-mcp) | Live and historical Hyperliquid/Lighter market data | Freemium | ![GitHub stars](https://img.shields.io/github/stars/0xArchiveIO/0xarchive-mcp?style=flat) |
 | [DexPaprika MCP](https://github.com/coinpaprika/dexpaprika-mcp) | DEX analytics across 20+ blockchains | Free | ![GitHub stars](https://img.shields.io/github/stars/coinpaprika/dexpaprika-mcp?style=flat) |
 | [CCXT MCP](https://github.com/Nayshins/mcp-server-ccxt) | Data from 20+ exchanges via CCXT | Free | ![GitHub stars](https://img.shields.io/github/stars/Nayshins/mcp-server-ccxt?style=flat) |
 | [Crypto Indicators MCP](https://github.com/kukapay/crypto-indicators-mcp) | Technical analysis indicators | Free | ![GitHub stars](https://img.shields.io/github/stars/kukapay/crypto-indicators-mcp?style=flat) |
