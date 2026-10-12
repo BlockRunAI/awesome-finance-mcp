@@ -204,6 +204,7 @@ A curated list of **MCP servers** and **AI skills** for finance, trading, and cr
 | [Equibles](https://github.com/daniel3303/stock-market-mcp-server) | SEC filings, XBRL, 13F, insider & congress trades | Freemium | ![stars](https://img.shields.io/github/stars/daniel3303/stock-market-mcp-server?style=flat) | *[@daniel3303](https://github.com/daniel3303)* |
 | [AlphaSMO](https://github.com/alphasmo/alphasmo-tools) | SEC 13F holdings, Form 4 insider trades, smart-money signals | Freemium | ![stars](https://img.shields.io/github/stars/alphasmo/alphasmo-tools?style=flat) | *[@alphasmo](https://github.com/alphasmo)* |
 | [GitDealFlow](https://github.com/kindrat86/mcp-deal-flow-signal) | Startup deal-flow signals from GitHub activity | Free | ![stars](https://img.shields.io/github/stars/kindrat86/mcp-deal-flow-signal?style=flat) | *[@kindrat86](https://github.com/kindrat86)* |
+| [Invokely MCP connector](https://github.com/estevecastells/invokely-mcp-connector) | Local stdio adapter for source-cited macro statistics | Freemium | ![stars](https://img.shields.io/github/stars/estevecastells/invokely-mcp-connector?style=flat) | *[@estevecastells](https://github.com/estevecastells)* |
 | [Predge](https://github.com/predgeAI/whale-data-mcp) | Signed, outcome-verified trader-skill (edge) scores for Polymarket & Kalshi wallets | Pay-per-call (x402) | ![stars](https://img.shields.io/github/stars/predgeAI/whale-data-mcp?style=flat) | *[@predge-ai](https://github.com/predge-ai)* |
 
 ### Personal Finance
