@@ -195,6 +195,7 @@ A curated list of **MCP servers** and **AI skills** for finance, trading, and cr
 | [Bitget Agent MCP](https://github.com/Bitget-AI/agent-mcp) | Official Bitget spot & futures trading, 89 operations | Requires API key | ![stars](https://img.shields.io/github/stars/Bitget-AI/agent-mcp?style=flat) | *[@lukeGao0](https://github.com/lukeGao0)* |
 | [Aperture Wallet Knowledge](https://github.com/devdasx/aperture) | Read-only Aperture wallet knowledge for AI agents | Free | ![stars](https://img.shields.io/github/stars/devdasx/aperture?style=flat) | *[@devdasx](https://github.com/devdasx)* |
 | [x402 Preflight](https://github.com/chico10117/basepay-readiness-service) | Preflight checks for x402 endpoints before payment | Freemium | ![stars](https://img.shields.io/github/stars/chico10117/basepay-readiness-service?style=flat) | *[@chico10117](https://github.com/chico10117)* |
+| [Priors MCP](https://github.com/priors-agents/priors/tree/main/packages/mcp) | Agent credit records, x402 pay, borrow on Robinhood | Requires wallet | ![stars](https://img.shields.io/github/stars/priors-agents/priors?style=flat) | *[@priors-agents](https://github.com/priors-agents)* |
 
 ### Financial Intelligence
 
