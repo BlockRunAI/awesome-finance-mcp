@@ -155,6 +155,8 @@ A curated list of **MCP servers** and **AI skills** for finance, trading, and cr
 | [Solana MCP](https://github.com/sendaifun/solana-agent-kit) | Solana agent kit with MCP support | Free | ![GitHub stars](https://img.shields.io/github/stars/sendaifun/solana-agent-kit?style=flat) |
 | [Bitcoin Lightning MCP](https://github.com/AbdelStark/bitcoin-mcp) | Bitcoin & Lightning operations | Free | ![GitHub stars](https://img.shields.io/github/stars/AbdelStark/bitcoin-mcp?style=flat) |
 | [ZKProofport MCP](https://github.com/zkproofport/proofport-ai) | Zero-knowledge identity proofs (Coinbase KYC, Country, OIDC) for AI agents on Base | x402 USDC pay-per-proof | ![GitHub stars](https://img.shields.io/github/stars/zkproofport/proofport-ai?style=flat) |
+| [MoltNode by Chord](https://github.com/tuantqse90/moltnode-mcp) | Read 31 chains; DEX swap quotes + unsigned txs via Chord | Free | ![GitHub stars](https://img.shields.io/github/stars/tuantqse90/moltnode-mcp?style=flat) |
+| [Chord](https://github.com/getchordlabs/chord) | DEX swap quotes + unsigned txs on 7 EVM chains, market data | Free | ![GitHub stars](https://img.shields.io/github/stars/getchordlabs/chord?style=flat) |
 
 ---
 
