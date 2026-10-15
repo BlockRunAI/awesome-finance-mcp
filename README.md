@@ -62,9 +62,7 @@ A curated list of **MCP servers** and **AI skills** for finance, trading, and cr
 | [Yahoo Finance MCP](https://github.com/maxscheijen/mcp-yahoo-finance) | Yahoo Finance stock data | Free | ![GitHub stars](https://img.shields.io/github/stars/maxscheijen/mcp-yahoo-finance?style=flat) |
 | [HK Finance MCP](https://github.com/hkopenai/hk-finance-mcp-server) | Hong Kong stock market data | Free | ![GitHub stars](https://img.shields.io/github/stars/hkopenai/hk-finance-mcp-server?style=flat) |
 | [Edgrapi](https://github.com/paperandbeyond23-gif/edgrapi-skills) | SEC EDGAR insider trades, 8-Ks, 13F/13D-G, XBRL, full-text search | Freemium | ![GitHub stars](https://img.shields.io/github/stars/paperandbeyond23-gif/edgrapi-skills?style=flat) |
-| [Datakoot Filings Intel](https://github.com/datakoot/filings-intel-mcp) | SEC EDGAR filings, XBRL financials, insider trades | Freemium | ![GitHub stars](https://img.shields.io/github/stars/datakoot/filings-intel-mcp?style=flat) |
-| [Datakoot Economy Intel](https://github.com/datakoot/economy-intel-mcp) | World Bank and US BLS macro indicators | Freemium | ![GitHub stars](https://img.shields.io/github/stars/datakoot/economy-intel-mcp?style=flat) |
-| [Datakoot Market Intel](https://github.com/datakoot/market-intel-mcp) | ECB reference FX rates and currency conversion | Freemium | ![GitHub stars](https://img.shields.io/github/stars/datakoot/market-intel-mcp?style=flat) |
+| [Datakoot](https://github.com/datakoot) | SEC EDGAR filings and XBRL, World Bank/BLS macro, ECB FX and Base on-chain data as four keyless MCP servers | Freemium | ![GitHub stars](https://img.shields.io/github/stars/datakoot/filings-intel-mcp?style=flat) |
 
 ### Trading Execution
 
@@ -109,7 +107,6 @@ A curated list of **MCP servers** and **AI skills** for finance, trading, and cr
 | [Hive Intelligence](https://github.com/hive-intel/hive-sdk) | Managed crypto intelligence MCP for AI agents | Freemium | ![GitHub stars](https://img.shields.io/github/stars/hive-intel/hive-sdk?style=flat) |
 | [Crypto Liquidations MCP](https://github.com/kukapay/crypto-liquidations-mcp) | Real-time liquidation events | Requires API key | ![GitHub stars](https://img.shields.io/github/stars/kukapay/crypto-liquidations-mcp?style=flat) |
 | [PnL Labs](https://github.com/PnLlabs/pnllabs-mcp) | Solana wallet trust scores, funding forensics, token safety | Pay-per-call (x402) | ![GitHub stars](https://img.shields.io/github/stars/PnLlabs/pnllabs-mcp?style=flat) |
-| [Datakoot Base Intel](https://github.com/datakoot/base-intel-mcp) | Read-only Base balances, tokens, gas and tx status | Freemium | ![GitHub stars](https://img.shields.io/github/stars/datakoot/base-intel-mcp?style=flat) |
 
 ---
 
