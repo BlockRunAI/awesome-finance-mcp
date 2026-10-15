@@ -105,6 +105,7 @@ A curated list of **MCP servers** and **AI skills** for finance, trading, and cr
 | [Bankless Onchain MCP](https://github.com/bankless/onchain-mcp) | Query onchain data, ERC20 tokens | Free | ![GitHub stars](https://img.shields.io/github/stars/bankless/onchain-mcp?style=flat) |
 | [Hive Intelligence](https://github.com/hive-intel/hive-sdk) | Managed crypto intelligence MCP for AI agents | Freemium | ![GitHub stars](https://img.shields.io/github/stars/hive-intel/hive-sdk?style=flat) |
 | [Crypto Liquidations MCP](https://github.com/kukapay/crypto-liquidations-mcp) | Real-time liquidation events | Requires API key | ![GitHub stars](https://img.shields.io/github/stars/kukapay/crypto-liquidations-mcp?style=flat) |
+| [TWZRD Agent Intel](https://github.com/twzrd-sol/twzrd-trust) | Trust scores + signed receipts for Solana x402 agents | Freemium | ![GitHub stars](https://img.shields.io/github/stars/twzrd-sol/twzrd-trust?style=flat) |
 | [PnL Labs](https://github.com/PnLlabs/pnllabs-mcp) | Solana wallet trust scores, funding forensics, token safety | Pay-per-call (x402) | ![GitHub stars](https://img.shields.io/github/stars/PnLlabs/pnllabs-mcp?style=flat) |
 
 ---
