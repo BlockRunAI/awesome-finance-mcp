@@ -162,6 +162,8 @@ A curated list of **MCP servers** and **AI skills** for finance, trading, and cr
 
 | Name | Description | Pricing | Stars |
 |------|-------------|---------|-------|
+
+| [Money Reactor](https://github.com/makar52nn2016-jpg/money-reactor) | Funded crypto bounty radar (hourly refresh) + honeypot trust scoring 0-100 for agents | Paid ($0.01/call, x402 USDC Base) | ![GitHub stars](https://img.shields.io/github/stars/makar52nn2016-jpg/money-reactor?style=flat) |
 | [The Stall](https://github.com/thebrierfox/the-stall) | 208 pay-per-call capabilities: finance, crypto, prediction markets | Pay-per-use (x402) | ![GitHub stars](https://img.shields.io/github/stars/thebrierfox/the-stall?style=flat) |
 | [OpenBB Platform](https://github.com/OpenBB-finance/OpenBB) | Comprehensive financial data platform | Free + Paid | ![GitHub stars](https://img.shields.io/github/stars/OpenBB-finance/OpenBB?style=flat) |
 | [TrendRadar](https://github.com/sansan0/TrendRadar) | AI sentiment monitoring, hot topic tracking | Free | ![GitHub stars](https://img.shields.io/github/stars/sansan0/TrendRadar?style=flat) |
