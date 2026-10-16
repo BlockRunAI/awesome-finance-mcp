@@ -126,6 +126,7 @@ A curated list of **MCP servers** and **AI skills** for finance, trading, and cr
 |------|-------------|---------|-------|
 | [BankBridge](https://github.com/bankbridge-money/bankbridge-plugin) | Read-only bank balances, transactions, cashflow via Plaid | $5/mo per bank | ![GitHub stars](https://img.shields.io/github/stars/bankbridge-money/bankbridge-plugin?style=flat) |
 | [Candor Finance](https://github.com/candorsystems/candor-finance) | Accounts, spending, budgets, goals, evidence | Requires account | ![GitHub stars](https://img.shields.io/github/stars/candorsystems/candor-finance?style=flat) |
+| [Fillfolio MCP](https://github.com/fillfolio/portfolio-mcp) | Read-only portfolios, cash, spending and budgets | Paid API key | ![GitHub stars](https://img.shields.io/github/stars/fillfolio/portfolio-mcp?style=flat) |
 | [LunchMoney MCP](https://github.com/akutishevsky/lunchmoney-mcp) | Transaction tracking, budgeting | Requires account | ![GitHub stars](https://img.shields.io/github/stars/akutishevsky/lunchmoney-mcp?style=flat) |
 | [Monarch Money MCP](https://github.com/carsol/monarch-mcp-server) | Accounts, budgets, cashflow analysis | Requires account | ![GitHub stars](https://img.shields.io/github/stars/carsol/monarch-mcp-server?style=flat) |
 
@@ -222,6 +223,7 @@ Skills are **task-level workflows** built on top of MCP servers or external APIs
 |------|-------------|----------|-------|
 | [AShareHub Chinese Market Data](https://github.com/ChuYiCui1/AshareHub-skills) | A-shares, ETFs, fundamentals, capital flows, technical indicators | AShareHub API + Python SDK | ![GitHub stars](https://img.shields.io/github/stars/ChuYiCui1/AshareHub-skills?style=flat) |
 | [Equity Research](https://github.com/quant-sentiment-ai/claude-equity-research) | Institutional-grade equity research with buy/sell recommendations, fundamental analysis, technical indicators | Claude Code Plugin | ![GitHub stars](https://img.shields.io/github/stars/quant-sentiment-ai/claude-equity-research?style=flat) |
+| [Fillfolio Portfolio Skills](https://github.com/fillfolio/portfolio-mcp-skills) | Read-only portfolio, spending and budget workflows | Fillfolio MCP (paid account) | ![GitHub stars](https://img.shields.io/github/stars/fillfolio/portfolio-mcp-skills?style=flat) |
 | [FinLab AI](https://github.com/koreal6803/finlab-ai) | Mass-produce alpha-generating quant strategies, Taiwan stock market analysis | FinLab + Claude | ![GitHub stars](https://img.shields.io/github/stars/koreal6803/finlab-ai?style=flat) |
 | [Trading Terminal](https://github.com/degentic-tools/claude-code-trading-terminal) | Agent-native trading terminal - deploy sub-agents for trades, positions, risk management | Claude Code + Jupiter | ![GitHub stars](https://img.shields.io/github/stars/degentic-tools/claude-code-trading-terminal?style=flat) |
 | [Claude Investor](https://github.com/martinxu9/claude-investor) | Investment analysis agent - price data, balance sheets, sentiment, analyst ratings | Claude 3 Opus/Haiku | ![GitHub stars](https://img.shields.io/github/stars/martinxu9/claude-investor?style=flat) |
@@ -229,6 +231,8 @@ Skills are **task-level workflows** built on top of MCP servers or external APIs
 | [Invoice Organizer](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/invoice-organizer) | Organize invoices and receipts for tax prep - extract, rename, sort | Claude Code Skill | - |
 | [Surf Crypto Intelligence](https://github.com/BlockRunAI/blockrun-mcp/tree/main/skills/surf) | Crypto social, news, prediction, wallet, and SQL data | Surf + BlockRun | ![GitHub stars](https://img.shields.io/github/stars/BlockRunAI/blockrun-mcp?style=flat) |
 | [Superior Skills](https://github.com/Superior-Trade/superior-skills) | Agent skills for strategy authoring, backtesting, and trading deployment | Superior Trade API | ![GitHub stars](https://img.shields.io/github/stars/Superior-Trade/superior-skills?style=flat) |
+
+Fillfolio skills accept an account question plus the stored records returned by its MCP tools, and produce portfolio, spending or budget summaries with currency and coverage warnings. The MIT skill files are free; authenticated workflows require a paid Fillfolio account and an accepted OAuth client. Spending and budgets need separate permissions. Example prompt after connecting: `Summarize my Fillfolio net worth, cash and debt, keeping currencies and missing-data warnings.` Fillfolio MCP uses OAuth; the table's `Paid API key` pricing label denotes the required subscription, not a separate API-key login.
 
 ### Adding a Skill
 
