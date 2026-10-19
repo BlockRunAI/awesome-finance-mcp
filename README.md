@@ -135,6 +135,7 @@ A curated list of **MCP servers** and **AI skills** for finance, trading, and cr
 
 | Name | Description | Pricing | Stars |
 |------|-------------|---------|-------|
+| [Agent Payment Node](https://github.com/nuanu-ai/agent-payment-node) | Local MCP payments with foreground owner approval | Requires wallet | ![GitHub stars](https://img.shields.io/github/stars/nuanu-ai/agent-payment-node?style=flat) |
 | [Stripe MCP](https://github.com/stripe/ai) | Payment processing, subscriptions | Requires API key | ![GitHub stars](https://img.shields.io/github/stars/stripe/ai?style=flat) |
 | [Qonto MCP](https://github.com/qonto/qonto-mcp-server) | Business banking, transactions, invoicing | Requires API key | ![GitHub stars](https://img.shields.io/github/stars/qonto/qonto-mcp-server?style=flat) |
 | [Ramp MCP](https://github.com/ramp-public/ramp_mcp) | Spend analytics via LLMs | Requires credentials | ![GitHub stars](https://img.shields.io/github/stars/ramp-public/ramp_mcp?style=flat) |
