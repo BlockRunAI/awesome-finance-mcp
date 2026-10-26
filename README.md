@@ -205,6 +205,7 @@ A curated list of **MCP servers** and **AI skills** for finance, trading, and cr
 | [AlphaSMO](https://github.com/alphasmo/alphasmo-tools) | SEC 13F holdings, Form 4 insider trades, smart-money signals | Freemium | ![stars](https://img.shields.io/github/stars/alphasmo/alphasmo-tools?style=flat) | *[@alphasmo](https://github.com/alphasmo)* |
 | [GitDealFlow](https://github.com/kindrat86/mcp-deal-flow-signal) | Startup deal-flow signals from GitHub activity | Free | ![stars](https://img.shields.io/github/stars/kindrat86/mcp-deal-flow-signal?style=flat) | *[@kindrat86](https://github.com/kindrat86)* |
 | [Predge](https://github.com/predgeAI/whale-data-mcp) | Signed, outcome-verified trader-skill (edge) scores for Polymarket & Kalshi wallets | Pay-per-call (x402) | ![stars](https://img.shields.io/github/stars/predgeAI/whale-data-mcp?style=flat) | *[@predge-ai](https://github.com/predge-ai)* |
+| [Level Open Finance MCP](https://github.com/levelcfo/open-finance-skills) | 20 SMB finance & month-end close checks + synthetic fixtures | Free | ![stars](https://img.shields.io/github/stars/levelcfo/open-finance-skills?style=flat) | *[@samtlyoung](https://github.com/samtlyoung)* |
 
 ### Personal Finance
 
@@ -229,6 +230,7 @@ Skills are **task-level workflows** built on top of MCP servers or external APIs
 | [Invoice Organizer](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/invoice-organizer) | Organize invoices and receipts for tax prep - extract, rename, sort | Claude Code Skill | - |
 | [Surf Crypto Intelligence](https://github.com/BlockRunAI/blockrun-mcp/tree/main/skills/surf) | Crypto social, news, prediction, wallet, and SQL data | Surf + BlockRun | ![GitHub stars](https://img.shields.io/github/stars/BlockRunAI/blockrun-mcp?style=flat) |
 | [Superior Skills](https://github.com/Superior-Trade/superior-skills) | Agent skills for strategy authoring, backtesting, and trading deployment | Superior Trade API | ![GitHub stars](https://img.shields.io/github/stars/Superior-Trade/superior-skills?style=flat) |
+| [Level Open Finance Skills](https://github.com/levelcfo/open-finance-skills) | 20 inspectable SMB finance and month-end close skills (reconciliation, 13-week cash forecast, AR integrity, 1099 review) | Claude Code / Codex + Local MCP | ![GitHub stars](https://img.shields.io/github/stars/levelcfo/open-finance-skills?style=flat) |
 
 ### Adding a Skill
 
