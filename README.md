@@ -144,6 +144,7 @@ A curated list of **MCP servers** and **AI skills** for finance, trading, and cr
 | [CardZero MCP](https://github.com/mrocker/cardzero-mcp) | Smart-contract wallet for AI agents on Base (USDC) | Free (2% per tx) | ![GitHub stars](https://img.shields.io/github/stars/mrocker/cardzero-mcp?style=flat) |
 | [open-banking.io](https://github.com/open-banking-io/clients) | Cert-free PSD2/open banking API with MCP | Paid API key | ![GitHub stars](https://img.shields.io/github/stars/open-banking-io/clients?style=flat) |
 | [stipend](https://github.com/stipend-sh/stipend) | Non-custodial USDC wallet with code-enforced limits | Free (self-hosted) | ![GitHub stars](https://img.shields.io/github/stars/stipend-sh/stipend?style=flat) |
+| [send21](https://github.com/send21io/mcp) | Non-custodial crypto pay links and payment drafts | Requires API key (fee per payment) | ![GitHub stars](https://img.shields.io/github/stars/send21io/mcp?style=flat) |
 
 ---
 
