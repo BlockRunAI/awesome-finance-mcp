@@ -117,6 +117,7 @@ A curated list of **MCP servers** and **AI skills** for finance, trading, and cr
 | [Free USDC Transfer MCP](https://github.com/magnetai/mcp-free-usdc-transfer) | Send USDC on Base for free | Free (x402) | ![GitHub stars](https://img.shields.io/github/stars/magnetai/mcp-free-usdc-transfer?style=flat) |
 | [Arcadia Finance MCP](https://github.com/arcadia-finance/mcp-server) | Uniswap & Aerodrome liquidity positions with leverage, rebalancing, yield optimization | Free | ![GitHub stars](https://img.shields.io/github/stars/arcadia-finance/mcp-server?style=flat) |
 | [AutoSwap](https://github.com/fino-oss/autoswap) | Cross-chain swaps in one call with auto-routing and bridging | Free (MIT) | ![GitHub stars](https://img.shields.io/github/stars/fino-oss/autoswap?style=flat) |
+| [BlazePhoenix MCP](https://github.com/blazephoenixxyz-crypto/blazephoenix-mcp) | Verified DEX swap quotes and calldata, no API key | Free | ![GitHub stars](https://img.shields.io/github/stars/blazephoenixxyz-crypto/blazephoenix-mcp?style=flat) |
 
 ---
 
