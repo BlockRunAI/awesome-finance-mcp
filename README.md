@@ -46,6 +46,7 @@ A curated list of **MCP servers** and **AI skills** for finance, trading, and cr
 
 | Name | Description | Pricing | Stars |
 |------|-------------|---------|-------|
+| [DataSinking](https://github.com/heubme2020/datasinking) | Full-text financial reports (US/China/Japan/Korea/Taiwan/UK) as clean Markdown for AI agents | Freemium | ![GitHub stars](https://img.shields.io/github/stars/heubme2020/datasinking?style=flat) |
 | [Maverick MCP](https://github.com/wshobson/maverick-mcp) | AI trading agent with real-time analysis | Free | ![GitHub stars](https://img.shields.io/github/stars/wshobson/maverick-mcp?style=flat) |
 | [MCP Trader](https://github.com/wshobson/mcp-trader) | Trading MCP with backtesting support | Free | ![GitHub stars](https://img.shields.io/github/stars/wshobson/mcp-trader?style=flat) |
 | [Alpaca MCP](https://github.com/alpacahq/alpaca-mcp-server) | Trade stocks, ETFs, options; run data analysis | Free (commission-free) | ![GitHub stars](https://img.shields.io/github/stars/alpacahq/alpaca-mcp-server?style=flat) |
