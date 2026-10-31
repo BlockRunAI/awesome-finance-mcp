@@ -193,7 +193,7 @@ A curated list of **MCP servers** and **AI skills** for finance, trading, and cr
 | [investor-agent](https://github.com/ferdousbhai/investor-agent) | MCP server for building an investor agent | Free | ![stars](https://img.shields.io/github/stars/ferdousbhai/investor-agent?style=flat) | *[@ferdousbhai](https://github.com/ferdousbhai)* |
 | [coincap-mcp](https://github.com/QuantGeekDev/coincap-mcp) | Access crypto data from CoinCap API | Free | ![stars](https://img.shields.io/github/stars/QuantGeekDev/coincap-mcp?style=flat) | *[@QuantGeekDev](https://github.com/QuantGeekDev)* |
 | [Bitget Agent MCP](https://github.com/Bitget-AI/agent-mcp) | Official Bitget spot & futures trading, 89 operations | Requires API key | ![stars](https://img.shields.io/github/stars/Bitget-AI/agent-mcp?style=flat) | *[@lukeGao0](https://github.com/lukeGao0)* |
-| [Aperture Wallet Knowledge](https://github.com/devdasx/aperture) | Read-only Aperture wallet knowledge for AI agents | Free | ![stars](https://img.shields.io/github/stars/devdasx/aperture?style=flat) | *[@devdasx](https://github.com/devdasx)* |
+| [Oath Wallet Knowledge](https://github.com/devdasx/oath-wallet) | Read-only Oath wallet knowledge for AI agents | Free | ![stars](https://img.shields.io/github/stars/devdasx/oath-wallet?style=flat) | *[@devdasx](https://github.com/devdasx)* |
 | [x402 Preflight](https://github.com/chico10117/basepay-readiness-service) | Preflight checks for x402 endpoints before payment | Freemium | ![stars](https://img.shields.io/github/stars/chico10117/basepay-readiness-service?style=flat) | *[@chico10117](https://github.com/chico10117)* |
 
 ### Financial Intelligence
