@@ -70,6 +70,7 @@ A curated list of **MCP servers** and **AI skills** for finance, trading, and cr
 | [Alpaca MCP](https://github.com/alpacahq/alpaca-mcp-server) | Commission-free stock/ETF/options trading | Free | ![GitHub stars](https://img.shields.io/github/stars/alpacahq/alpaca-mcp-server?style=flat) |
 | [MetaTrader 5 MCP](https://github.com/ariadng/metatrader-mcp-server) | Trade via MetaTrader 5 platform | Free (requires MT5) | ![GitHub stars](https://img.shields.io/github/stars/ariadng/metatrader-mcp-server?style=flat) |
 | [Paper MCP](https://github.com/paperinvest/mcp-server) | Paper trading - practice without real money | Free | ![GitHub stars](https://img.shields.io/github/stars/paperinvest/mcp-server?style=flat) |
+| [Nyria MCP](https://github.com/Nyria-LLC/nyria-mcp) | Trade alerts to Nyria Paper or a connected broker | Freemium | ![GitHub stars](https://img.shields.io/github/stars/Nyria-LLC/nyria-mcp?style=flat) |
 
 ---
 
