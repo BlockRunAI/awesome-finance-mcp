@@ -195,6 +195,7 @@ A curated list of **MCP servers** and **AI skills** for finance, trading, and cr
 | [Bitget Agent MCP](https://github.com/Bitget-AI/agent-mcp) | Official Bitget spot & futures trading, 89 operations | Requires API key | ![stars](https://img.shields.io/github/stars/Bitget-AI/agent-mcp?style=flat) | *[@lukeGao0](https://github.com/lukeGao0)* |
 | [Aperture Wallet Knowledge](https://github.com/devdasx/aperture) | Read-only Aperture wallet knowledge for AI agents | Free | ![stars](https://img.shields.io/github/stars/devdasx/aperture?style=flat) | *[@devdasx](https://github.com/devdasx)* |
 | [x402 Preflight](https://github.com/chico10117/basepay-readiness-service) | Preflight checks for x402 endpoints before payment | Freemium | ![stars](https://img.shields.io/github/stars/chico10117/basepay-readiness-service?style=flat) | *[@chico10117](https://github.com/chico10117)* |
+| [Base Memecoin Guard](https://github.com/veselin9931/facts402-mcp/tree/main/base-memecoin-guard-mcp) | Base memecoin rug/honeypot checks, smart money, alerts | Freemium | ![stars](https://img.shields.io/github/stars/veselin9931/facts402-mcp?style=flat) | *[@veselin9931](https://github.com/veselin9931)* |
 
 ### Financial Intelligence
 
@@ -205,6 +206,7 @@ A curated list of **MCP servers** and **AI skills** for finance, trading, and cr
 | [AlphaSMO](https://github.com/alphasmo/alphasmo-tools) | SEC 13F holdings, Form 4 insider trades, smart-money signals | Freemium | ![stars](https://img.shields.io/github/stars/alphasmo/alphasmo-tools?style=flat) | *[@alphasmo](https://github.com/alphasmo)* |
 | [GitDealFlow](https://github.com/kindrat86/mcp-deal-flow-signal) | Startup deal-flow signals from GitHub activity | Free | ![stars](https://img.shields.io/github/stars/kindrat86/mcp-deal-flow-signal?style=flat) | *[@kindrat86](https://github.com/kindrat86)* |
 | [Predge](https://github.com/predgeAI/whale-data-mcp) | Signed, outcome-verified trader-skill (edge) scores for Polymarket & Kalshi wallets | Pay-per-call (x402) | ![stars](https://img.shields.io/github/stars/predgeAI/whale-data-mcp?style=flat) | *[@predge-ai](https://github.com/predge-ai)* |
+| [facts402 MCP](https://github.com/veselin9931/facts402-mcp/tree/main/facts402-mcp) | IBAN, EU VAT, OFAC sanctions, LEI and FX checks | Free (x402) | ![stars](https://img.shields.io/github/stars/veselin9931/facts402-mcp?style=flat) | *[@veselin9931](https://github.com/veselin9931)* |
 
 ### Personal Finance
 
