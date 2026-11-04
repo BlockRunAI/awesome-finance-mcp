@@ -205,6 +205,7 @@ A curated list of **MCP servers** and **AI skills** for finance, trading, and cr
 | [AlphaSMO](https://github.com/alphasmo/alphasmo-tools) | SEC 13F holdings, Form 4 insider trades, smart-money signals | Freemium | ![stars](https://img.shields.io/github/stars/alphasmo/alphasmo-tools?style=flat) | *[@alphasmo](https://github.com/alphasmo)* |
 | [GitDealFlow](https://github.com/kindrat86/mcp-deal-flow-signal) | Startup deal-flow signals from GitHub activity | Free | ![stars](https://img.shields.io/github/stars/kindrat86/mcp-deal-flow-signal?style=flat) | *[@kindrat86](https://github.com/kindrat86)* |
 | [Predge](https://github.com/predgeAI/whale-data-mcp) | Signed, outcome-verified trader-skill (edge) scores for Polymarket & Kalshi wallets | Pay-per-call (x402) | ![stars](https://img.shields.io/github/stars/predgeAI/whale-data-mcp?style=flat) | *[@predge-ai](https://github.com/predge-ai)* |
+| [Anansi Haven](https://github.com/kburrus64-max/anansi-haven) | Hosted remote MCP: agent memory, rooms, free rule-based trade postmortem | Freemium (x402 $0.02) | ![stars](https://img.shields.io/github/stars/kburrus64-max/anansi-haven?style=flat) | *[@kburrus64-max](https://github.com/kburrus64-max)* |
 
 ### Personal Finance
 
