@@ -126,6 +126,7 @@ A curated list of **MCP servers** and **AI skills** for finance, trading, and cr
 |------|-------------|---------|-------|
 | [BankBridge](https://github.com/bankbridge-money/bankbridge-plugin) | Read-only bank balances, transactions, cashflow via Plaid | $5/mo per bank | ![GitHub stars](https://img.shields.io/github/stars/bankbridge-money/bankbridge-plugin?style=flat) |
 | [Candor Finance](https://github.com/candorsystems/candor-finance) | Accounts, spending, budgets, goals, evidence | Requires account | ![GitHub stars](https://img.shields.io/github/stars/candorsystems/candor-finance?style=flat) |
+| [Investboard MCP](https://github.com/Investboard/ai-toolkit) | Investment rules, portfolio context and decision records | Freemium | ![GitHub stars](https://img.shields.io/github/stars/Investboard/ai-toolkit?style=flat) |
 | [LunchMoney MCP](https://github.com/akutishevsky/lunchmoney-mcp) | Transaction tracking, budgeting | Requires account | ![GitHub stars](https://img.shields.io/github/stars/akutishevsky/lunchmoney-mcp?style=flat) |
 | [Monarch Money MCP](https://github.com/carsol/monarch-mcp-server) | Accounts, budgets, cashflow analysis | Requires account | ![GitHub stars](https://img.shields.io/github/stars/carsol/monarch-mcp-server?style=flat) |
 
@@ -227,8 +228,25 @@ Skills are **task-level workflows** built on top of MCP servers or external APIs
 | [Claude Investor](https://github.com/martinxu9/claude-investor) | Investment analysis agent - price data, balance sheets, sentiment, analyst ratings | Claude 3 Opus/Haiku | ![GitHub stars](https://img.shields.io/github/stars/martinxu9/claude-investor?style=flat) |
 | [Trading Skills](https://github.com/tradermonty/claude-trading-skills) | IBD-style RS Rating for identifying stocks with strong momentum | Claude Code Skill | ![GitHub stars](https://img.shields.io/github/stars/tradermonty/claude-trading-skills?style=flat) |
 | [Invoice Organizer](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/invoice-organizer) | Organize invoices and receipts for tax prep - extract, rename, sort | Claude Code Skill | - |
+| [Investboard Investment Decision-Making](https://github.com/Investboard/ai-toolkit/tree/main/plugins/investboard/skills/investment-decision-making) | Investment choices and notes into structured trade-offs | Supplied files; optional Investboard MCP | ![GitHub stars](https://img.shields.io/github/stars/Investboard/ai-toolkit?style=flat) |
+| [Investboard Portfolio Intelligence](https://github.com/Investboard/ai-toolkit/tree/main/plugins/investboard/skills/portfolio-intelligence) | Holdings and reports into exposure and overlap analysis | Supplied files; optional Investboard MCP | ![GitHub stars](https://img.shields.io/github/stars/Investboard/ai-toolkit?style=flat) |
+| [Investboard Investment Strategy Check](https://github.com/Investboard/ai-toolkit/tree/main/plugins/investboard/skills/investment-strategy-check) | Proposed changes checked against supplied investment rules | Supplied files; optional Investboard MCP | ![GitHub stars](https://img.shields.io/github/stars/Investboard/ai-toolkit?style=flat) |
+| [Investboard Investment Thesis](https://github.com/Investboard/ai-toolkit/tree/main/plugins/investboard/skills/investment-thesis) | Investment notes into assumptions and review criteria | Supplied files; optional Investboard MCP | ![GitHub stars](https://img.shields.io/github/stars/Investboard/ai-toolkit?style=flat) |
 | [Surf Crypto Intelligence](https://github.com/BlockRunAI/blockrun-mcp/tree/main/skills/surf) | Crypto social, news, prediction, wallet, and SQL data | Surf + BlockRun | ![GitHub stars](https://img.shields.io/github/stars/BlockRunAI/blockrun-mcp?style=flat) |
 | [Superior Skills](https://github.com/Superior-Trade/superior-skills) | Agent skills for strategy authoring, backtesting, and trading deployment | Superior Trade API | ![GitHub stars](https://img.shields.io/github/stars/Superior-Trade/superior-skills?style=flat) |
+
+### Investboard skill examples
+
+The four Investboard skills are free with supplied files. Optional account access
+uses the OAuth-authenticated Investboard MCP (Freemium); portfolio analytics and
+saved-history reads require Investboard Premium. Assistant-provider fees are separate.
+
+Install with `npx skills add Investboard/ai-toolkit`, select a skill, then try:
+
+- **Investment Decision-Making:** "Use my attached notes to compare the alternatives I listed and identify unresolved questions."
+- **Portfolio Intelligence:** "Use my attached holdings report to explain concentration and overlapping exposures, noting any data gaps."
+- **Investment Strategy Check:** "Use my attached investment rules to assess moving ten percentage points from cash into equities."
+- **Investment Thesis:** "Turn my attached investment notes into a draft thesis with assumptions and evidence that would challenge it."
 
 ### Adding a Skill
 
