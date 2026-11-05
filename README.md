@@ -97,6 +97,7 @@ A curated list of **MCP servers** and **AI skills** for finance, trading, and cr
 | [Eterna MCP](https://github.com/EternaHybridExchange/eterna-mcp) | No-KYC USDT perpetual futures with isolated sub-accounts | Free (trading fees apply) | ![GitHub stars](https://img.shields.io/github/stars/EternaHybridExchange/eterna-mcp?style=flat) |
 | [Armor Crypto MCP](https://github.com/armorwallet/armor-crypto-mcp) | Swaps, DeFi, wallet management | Requires wallet | ![GitHub stars](https://img.shields.io/github/stars/armorwallet/armor-crypto-mcp?style=flat) |
 | [Clicks Protocol MCP](https://github.com/clicks-protocol/clicks-protocol) | Autonomous USDC yield for AI agents (80/20 split, Morpho/Aave) | No wallet needed (read-only) | ![GitHub stars](https://img.shields.io/github/stars/clicks-protocol/clicks-protocol?style=flat) |
+| [dMoERA MCP](https://github.com/CacheCarti/dmoera-mcp) | Build, backtest and deploy crypto strategies via MCP | Free | ![GitHub stars](https://img.shields.io/github/stars/CacheCarti/dmoera-mcp?style=flat) |
 
 ### On-Chain Analytics
 
