@@ -205,6 +205,8 @@ A curated list of **MCP servers** and **AI skills** for finance, trading, and cr
 | [AlphaSMO](https://github.com/alphasmo/alphasmo-tools) | SEC 13F holdings, Form 4 insider trades, smart-money signals | Freemium | ![stars](https://img.shields.io/github/stars/alphasmo/alphasmo-tools?style=flat) | *[@alphasmo](https://github.com/alphasmo)* |
 | [GitDealFlow](https://github.com/kindrat86/mcp-deal-flow-signal) | Startup deal-flow signals from GitHub activity | Free | ![stars](https://img.shields.io/github/stars/kindrat86/mcp-deal-flow-signal?style=flat) | *[@kindrat86](https://github.com/kindrat86)* |
 | [Predge](https://github.com/predgeAI/whale-data-mcp) | Signed, outcome-verified trader-skill (edge) scores for Polymarket & Kalshi wallets | Pay-per-call (x402) | ![stars](https://img.shields.io/github/stars/predgeAI/whale-data-mcp?style=flat) | *[@predge-ai](https://github.com/predge-ai)* |
+| [Option Desk](https://github.com/Iman/agent-driven-options-desk-and-skills) | Option Greeks, dealer positioning, strategy payoffs | Free | ![stars](https://img.shields.io/github/stars/Iman/agent-driven-options-desk-and-skills?style=flat) | *[@Iman](https://github.com/Iman)* |
+| [Risk Desk](https://github.com/Iman/agent-driven-risk-desk-and-skills) | VaR, Expected Shortfall, stress tests, SA-CCR, FRTB | Free | ![stars](https://img.shields.io/github/stars/Iman/agent-driven-risk-desk-and-skills?style=flat) | *[@Iman](https://github.com/Iman)* |
 
 ### Personal Finance
 
