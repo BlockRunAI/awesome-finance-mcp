@@ -177,7 +177,6 @@ A curated list of **MCP servers** and **AI skills** for finance, trading, and cr
 | [Pineify MCP](https://github.com/pineifyapp/pineify-mcp) | Trading-code validation and market intelligence | Paid API key | ![GitHub stars](https://img.shields.io/github/stars/pineifyapp/pineify-mcp?style=flat) |
 | [Redstone Markets](https://github.com/mihaitv/redstone-mcp) | Free return and risk analytics for US stocks and ETFs | Free | ![GitHub stars](https://img.shields.io/github/stars/mihaitv/redstone-mcp?style=flat) |
 
-
 ---
 
 ## Community Contributions
