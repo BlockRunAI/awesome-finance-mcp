@@ -175,6 +175,7 @@ A curated list of **MCP servers** and **AI skills** for finance, trading, and cr
 | [Worthune](https://github.com/CapsteraSupport/worthune-sdk) | Financial planning models | Freemium | ![GitHub stars](https://img.shields.io/github/stars/CapsteraSupport/worthune-sdk?style=flat) |
 | [Cue Data MCP](https://github.com/sensedeal/cue-skills) | Cue Data MCP: macro, SEC EDGAR, IPO, sanctions, statutes | Requires API key | ![GitHub stars](https://img.shields.io/github/stars/sensedeal/cue-skills?style=flat) |
 | [Pineify MCP](https://github.com/pineifyapp/pineify-mcp) | Trading-code validation and market intelligence | Paid API key | ![GitHub stars](https://img.shields.io/github/stars/pineifyapp/pineify-mcp?style=flat) |
+| [Scrapewise](https://github.com/BEBOTECH-OU/scrapewise-mcp) | Product and price data extraction, cleaning and matching | Freemium | ![GitHub stars](https://img.shields.io/github/stars/BEBOTECH-OU/scrapewise-mcp?style=flat) |
 
 ---
 
