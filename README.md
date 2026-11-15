@@ -211,6 +211,7 @@ A curated list of **MCP servers** and **AI skills** for finance, trading, and cr
 | Name | Description | Pricing | Stars | Contributor |
 |------|-------------|---------|-------|-------------|
 | [OptionsAhoy MCP](https://github.com/AlvisoOculus/optionsahoy-mcp) | Equity compensation tax optimizer: ISO, NSO, RSU, QSBS | Free | ![stars](https://img.shields.io/github/stars/AlvisoOculus/optionsahoy-mcp?style=flat) | *[@AlvisoOculus](https://github.com/AlvisoOculus)* |
+| [No Stairs Please MCP](https://nostairsplease.com/mcp) | Live music venue directory, booking contacts, and tour routing economics | Freemium | - | *[@ratacat](https://github.com/ratacat)* |
 
 ---
 
