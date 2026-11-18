@@ -106,6 +106,7 @@ A curated list of **MCP servers** and **AI skills** for finance, trading, and cr
 | [Hive Intelligence](https://github.com/hive-intel/hive-sdk) | Managed crypto intelligence MCP for AI agents | Freemium | ![GitHub stars](https://img.shields.io/github/stars/hive-intel/hive-sdk?style=flat) |
 | [Crypto Liquidations MCP](https://github.com/kukapay/crypto-liquidations-mcp) | Real-time liquidation events | Requires API key | ![GitHub stars](https://img.shields.io/github/stars/kukapay/crypto-liquidations-mcp?style=flat) |
 | [PnL Labs](https://github.com/PnLlabs/pnllabs-mcp) | Solana wallet trust scores, funding forensics, token safety | Pay-per-call (x402) | ![GitHub stars](https://img.shields.io/github/stars/PnLlabs/pnllabs-mcp?style=flat) |
+| [StalkChain Data](https://github.com/StalkChain/fomo-mcp-api) | Tracked crypto trader wallets, token holders, and PnL | Requires credentials | ![GitHub stars](https://img.shields.io/github/stars/StalkChain/fomo-mcp-api?style=flat) |
 
 ---
 
