@@ -144,7 +144,7 @@ A curated list of **MCP servers** and **AI skills** for finance, trading, and cr
 | [CardZero MCP](https://github.com/mrocker/cardzero-mcp) | Smart-contract wallet for AI agents on Base (USDC) | Free (2% per tx) | ![GitHub stars](https://img.shields.io/github/stars/mrocker/cardzero-mcp?style=flat) |
 | [open-banking.io](https://github.com/open-banking-io/clients) | Cert-free PSD2/open banking API with MCP | Paid API key | ![GitHub stars](https://img.shields.io/github/stars/open-banking-io/clients?style=flat) |
 | [stipend](https://github.com/stipend-sh/stipend) | Non-custodial USDC wallet with code-enforced limits | Free (self-hosted) | ![GitHub stars](https://img.shields.io/github/stars/stipend-sh/stipend?style=flat) |
-| [Screwtape](https://github.com/screwtapeai/screwtape-examples) | Pre-payment check before an agent pays a seller | Freemium | ![GitHub stars](https://img.shields.io/github/stars/screwtapeai/screwtape-examples?style=flat) |
+| [Screwtape.ai](https://github.com/screwtapeai/screwtape-examples) | Pre-payment check, spend-rule payment guard and seller-side agent trust score before an agent pays | Freemium | ![GitHub stars](https://img.shields.io/github/stars/screwtapeai/screwtape-examples?style=flat) |
 
 ---
 
