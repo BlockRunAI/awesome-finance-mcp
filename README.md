@@ -144,6 +144,7 @@ A curated list of **MCP servers** and **AI skills** for finance, trading, and cr
 | [CardZero MCP](https://github.com/mrocker/cardzero-mcp) | Smart-contract wallet for AI agents on Base (USDC) | Free (2% per tx) | ![GitHub stars](https://img.shields.io/github/stars/mrocker/cardzero-mcp?style=flat) |
 | [open-banking.io](https://github.com/open-banking-io/clients) | Cert-free PSD2/open banking API with MCP | Paid API key | ![GitHub stars](https://img.shields.io/github/stars/open-banking-io/clients?style=flat) |
 | [stipend](https://github.com/stipend-sh/stipend) | Non-custodial USDC wallet with code-enforced limits | Free (self-hosted) | ![GitHub stars](https://img.shields.io/github/stars/stipend-sh/stipend?style=flat) |
+| [MexCheck](https://github.com/acrogenesis/mexcheck-mcp) | Mexican KYC & tax data checks (RFC + SAT 69/69-B lists, CFDI status, CURP via RENAPO, INE) via remote MCP at mexcheck.com/mcp | Paid API key ($5 signup credit) | ![GitHub stars](https://img.shields.io/github/stars/acrogenesis/mexcheck-mcp?style=flat) |
 
 ---
 
