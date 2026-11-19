@@ -62,6 +62,7 @@ A curated list of **MCP servers** and **AI skills** for finance, trading, and cr
 | [Yahoo Finance MCP](https://github.com/maxscheijen/mcp-yahoo-finance) | Yahoo Finance stock data | Free | ![GitHub stars](https://img.shields.io/github/stars/maxscheijen/mcp-yahoo-finance?style=flat) |
 | [HK Finance MCP](https://github.com/hkopenai/hk-finance-mcp-server) | Hong Kong stock market data | Free | ![GitHub stars](https://img.shields.io/github/stars/hkopenai/hk-finance-mcp-server?style=flat) |
 | [Edgrapi](https://github.com/paperandbeyond23-gif/edgrapi-skills) | SEC EDGAR insider trades, 8-Ks, 13F/13D-G, XBRL, full-text search | Freemium | ![GitHub stars](https://img.shields.io/github/stars/paperandbeyond23-gif/edgrapi-skills?style=flat) |
+| [Adanos MCP](https://github.com/adanos-software/adanos-mcp) | Stock buzz and sentiment from Reddit, X, News, Polymarket | Freemium | ![GitHub stars](https://img.shields.io/github/stars/adanos-software/adanos-mcp?style=flat) |
 
 ### Trading Execution
 
