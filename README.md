@@ -61,6 +61,7 @@ A curated list of **MCP servers** and **AI skills** for finance, trading, and cr
 | [KOSPI/KOSDAQ MCP](https://github.com/dragon1086/kospi-kosdaq-stock-server) | Korean stock market data | Free | ![GitHub stars](https://img.shields.io/github/stars/dragon1086/kospi-kosdaq-stock-server?style=flat) |
 | [Yahoo Finance MCP](https://github.com/maxscheijen/mcp-yahoo-finance) | Yahoo Finance stock data | Free | ![GitHub stars](https://img.shields.io/github/stars/maxscheijen/mcp-yahoo-finance?style=flat) |
 | [HK Finance MCP](https://github.com/hkopenai/hk-finance-mcp-server) | Hong Kong stock market data | Free | ![GitHub stars](https://img.shields.io/github/stars/hkopenai/hk-finance-mcp-server?style=flat) |
+| [Tapetide](https://github.com/Tapetide-hq/nse-bse-indian-stock-market-data-mcp) | NSE/BSE India quotes, financials, screener, FII/DII flows | Freemium | ![GitHub stars](https://img.shields.io/github/stars/Tapetide-hq/nse-bse-indian-stock-market-data-mcp?style=flat) |
 | [Edgrapi](https://github.com/paperandbeyond23-gif/edgrapi-skills) | SEC EDGAR insider trades, 8-Ks, 13F/13D-G, XBRL, full-text search | Freemium | ![GitHub stars](https://img.shields.io/github/stars/paperandbeyond23-gif/edgrapi-skills?style=flat) |
 
 ### Trading Execution
