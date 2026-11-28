@@ -222,6 +222,7 @@ A curated list of **MCP servers** and **AI skills** for finance, trading, and cr
 | Name | Description | Pricing | Stars | Contributor |
 |------|-------------|---------|-------|-------------|
 | [OptionsAhoy MCP](https://github.com/AlvisoOculus/optionsahoy-mcp) | Equity compensation tax optimizer: ISO, NSO, RSU, QSBS | Free | ![stars](https://img.shields.io/github/stars/AlvisoOculus/optionsahoy-mcp?style=flat) | *[@AlvisoOculus](https://github.com/AlvisoOculus)* |
+| [setsuzei](https://github.com/ozko00/setsuzei) | Japan income/resident tax and deduction estimates | Free (self-hosted) | ![stars](https://img.shields.io/github/stars/ozko00/setsuzei?style=flat) | *[@ozko00](https://github.com/ozko00)* |
 
 ---
 
