@@ -46,7 +46,7 @@ A curated list of **MCP servers** and **AI skills** for finance, trading, and cr
 
 | Name | Description | Pricing | Stars |
 |------|-------------|---------|-------|
-| [DataSinking](https://github.com/heubme2020/datasinking) | Full-text financial reports (US/China/Japan/Korea/Taiwan/UK) as clean Markdown for AI agents | Freemium | ![GitHub stars](https://img.shields.io/github/stars/heubme2020/datasinking?style=flat) |
+| [DataSinking](https://github.com/heubme2020/datasinking) | Full-text financial reports from six markets as Markdown | Freemium | ![GitHub stars](https://img.shields.io/github/stars/heubme2020/datasinking?style=flat) |
 | [Maverick MCP](https://github.com/wshobson/maverick-mcp) | AI trading agent with real-time analysis | Free | ![GitHub stars](https://img.shields.io/github/stars/wshobson/maverick-mcp?style=flat) |
 | [MCP Trader](https://github.com/wshobson/mcp-trader) | Trading MCP with backtesting support | Free | ![GitHub stars](https://img.shields.io/github/stars/wshobson/mcp-trader?style=flat) |
 | [Alpaca MCP](https://github.com/alpacahq/alpaca-mcp-server) | Trade stocks, ETFs, options; run data analysis | Free (commission-free) | ![GitHub stars](https://img.shields.io/github/stars/alpacahq/alpaca-mcp-server?style=flat) |
@@ -64,7 +64,7 @@ A curated list of **MCP servers** and **AI skills** for finance, trading, and cr
 | [HK Finance MCP](https://github.com/hkopenai/hk-finance-mcp-server) | Hong Kong stock market data | Free | ![GitHub stars](https://img.shields.io/github/stars/hkopenai/hk-finance-mcp-server?style=flat) |
 | [Tapetide](https://github.com/Tapetide-hq/nse-bse-indian-stock-market-data-mcp) | NSE/BSE India quotes, financials, screener, FII/DII flows | Freemium | ![GitHub stars](https://img.shields.io/github/stars/Tapetide-hq/nse-bse-indian-stock-market-data-mcp?style=flat) |
 | [Edgrapi](https://github.com/paperandbeyond23-gif/edgrapi-skills) | SEC EDGAR insider trades, 8-Ks, 13F/13D-G, XBRL, full-text search | Freemium | ![GitHub stars](https://img.shields.io/github/stars/paperandbeyond23-gif/edgrapi-skills?style=flat) |
-| [AlphaSift](https://github.com/ZhuLinsen/alphasift) | Multi-market (CN/US/HK/JP/KR/TW/IN) quant stock screener, 13-tool STDIO MCP + 4 resources, and purged walk-forward T+1/T+5/T+10 track record | Free (Apache-2.0) | ![GitHub stars](https://img.shields.io/github/stars/ZhuLinsen/alphasift?style=flat) |
+| [AlphaSift](https://github.com/ZhuLinsen/alphasift) | Quant stock screener for 7 markets with a public track record | Free | ![GitHub stars](https://img.shields.io/github/stars/ZhuLinsen/alphasift?style=flat) |
 
 ### Trading Execution
 
@@ -127,7 +127,7 @@ A curated list of **MCP servers** and **AI skills** for finance, trading, and cr
 
 | Name | Description | Pricing | Stars |
 |------|-------------|---------|-------|
-| [BankBridge](https://github.com/bankbridge-money/bankbridge-plugin) | Read-only bank balances, transactions, cashflow, live-fetched with no cache | $5/mo per bank | ![GitHub stars](https://img.shields.io/github/stars/bankbridge-money/bankbridge-plugin?style=flat) |
+| [BankBridge](https://github.com/bankbridge-money/bankbridge-plugin) | Read-only bank balances, transactions, cashflow, no cache | $5/mo per bank | ![GitHub stars](https://img.shields.io/github/stars/bankbridge-money/bankbridge-plugin?style=flat) |
 | [Candor Finance](https://github.com/candorsystems/candor-finance) | Accounts, spending, budgets, goals, evidence | Requires account | ![GitHub stars](https://img.shields.io/github/stars/candorsystems/candor-finance?style=flat) |
 | [LunchMoney MCP](https://github.com/akutishevsky/lunchmoney-mcp) | Transaction tracking, budgeting | Requires account | ![GitHub stars](https://img.shields.io/github/stars/akutishevsky/lunchmoney-mcp?style=flat) |
 | [Monarch Money MCP](https://github.com/carsol/monarch-mcp-server) | Accounts, budgets, cashflow analysis | Requires account | ![GitHub stars](https://img.shields.io/github/stars/carsol/monarch-mcp-server?style=flat) |
@@ -138,7 +138,7 @@ A curated list of **MCP servers** and **AI skills** for finance, trading, and cr
 
 | Name | Description | Pricing | Stars |
 |------|-------------|---------|-------|
-| [Agent Payment Node](https://github.com/nuanu-ai/agent-payment-node) | Local MCP payments with an owner-set x402 policy and terminal approval for direct transfers | Requires wallet | ![GitHub stars](https://img.shields.io/github/stars/nuanu-ai/agent-payment-node?style=flat) |
+| [Agent Payment Node](https://github.com/nuanu-ai/agent-payment-node) | Local x402 payments under an owner-set spending policy | Requires wallet | ![GitHub stars](https://img.shields.io/github/stars/nuanu-ai/agent-payment-node?style=flat) |
 | [Stripe MCP](https://github.com/stripe/ai) | Payment processing, subscriptions | Requires API key | ![GitHub stars](https://img.shields.io/github/stars/stripe/ai?style=flat) |
 | [Qonto MCP](https://github.com/qonto/qonto-mcp-server) | Business banking, transactions, invoicing | Requires API key | ![GitHub stars](https://img.shields.io/github/stars/qonto/qonto-mcp-server?style=flat) |
 | [Ramp MCP](https://github.com/ramp-public/ramp_mcp) | Spend analytics via LLMs | Requires credentials | ![GitHub stars](https://img.shields.io/github/stars/ramp-public/ramp_mcp?style=flat) |
@@ -199,7 +199,7 @@ A curated list of **MCP servers** and **AI skills** for finance, trading, and cr
 | [investor-agent](https://github.com/ferdousbhai/investor-agent) | MCP server for building an investor agent | Free | ![stars](https://img.shields.io/github/stars/ferdousbhai/investor-agent?style=flat) | *[@ferdousbhai](https://github.com/ferdousbhai)* |
 | [coincap-mcp](https://github.com/QuantGeekDev/coincap-mcp) | Access crypto data from CoinCap API | Free | ![stars](https://img.shields.io/github/stars/QuantGeekDev/coincap-mcp?style=flat) | *[@QuantGeekDev](https://github.com/QuantGeekDev)* |
 | [Bitget Agent MCP](https://github.com/Bitget-AI/agent-mcp) | Official Bitget spot & futures trading, 89 operations | Requires API key | ![stars](https://img.shields.io/github/stars/Bitget-AI/agent-mcp?style=flat) | *[@lukeGao0](https://github.com/lukeGao0)* |
-| [Oath Wallet Knowledge](https://github.com/devdasx/oath-wallet) | Read-only Oath wallet knowledge for AI agents | Free | ![stars](https://img.shields.io/github/stars/devdasx/oath-wallet?style=flat) | *[@devdasx](https://github.com/devdasx)* |
+| [Oath Wallet Knowledge](https://github.com/OathWallet/oath-wallet) | Read-only Oath wallet knowledge for AI agents | Free | ![stars](https://img.shields.io/github/stars/OathWallet/oath-wallet?style=flat) | *[@devdasx](https://github.com/devdasx)* |
 | [x402 Preflight](https://github.com/chico10117/basepay-readiness-service) | Preflight checks for x402 endpoints before payment | Freemium | ![stars](https://img.shields.io/github/stars/chico10117/basepay-readiness-service?style=flat) | *[@chico10117](https://github.com/chico10117)* |
 
 ### Financial Intelligence
