@@ -211,6 +211,7 @@ A curated list of **MCP servers** and **AI skills** for finance, trading, and cr
 | [Predge](https://github.com/predgeAI/whale-data-mcp) | Signed, outcome-verified trader-skill (edge) scores for Polymarket & Kalshi wallets | Pay-per-call (x402) | ![stars](https://img.shields.io/github/stars/predgeAI/whale-data-mcp?style=flat) | *[@predge-ai](https://github.com/predge-ai)* |
 | [QuantDinger MCP](https://github.com/OpenByteInc/QuantDinger) | Strategy research, backtesting, and gated trading | Free (self-hosted) | ![stars](https://img.shields.io/github/stars/OpenByteInc/QuantDinger?style=flat) | *[@brokermr810](https://github.com/brokermr810)* |
 | [oracle3](https://github.com/YichengYang-Ethan/oracle3-prediction-market-agent) | Kalshi/Polymarket books, arbitrage checks, paper trades | Free | ![stars](https://img.shields.io/github/stars/YichengYang-Ethan/oracle3-prediction-market-agent?style=flat) | *[@YichengYang-Ethan](https://github.com/YichengYang-Ethan)* |
+| [Kandle](https://github.com/Kernel-Hunter/kandle) | Crypto, stock and forex charts agents can read and draw on | Free | ![stars](https://img.shields.io/github/stars/Kernel-Hunter/kandle?style=flat) | *[@Kernel-Hunter](https://github.com/Kernel-Hunter)* |
 
 ### Personal Finance
 
